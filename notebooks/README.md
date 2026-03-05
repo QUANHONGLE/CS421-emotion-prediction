@@ -5,15 +5,15 @@
 
 ## How to Run
 1. Open `Q1_ANN_Embeddings.ipynb` in Google Colab
-2. Run all cells in order from top to bottom (Runtime → Run all)
+2. Run all cells in order from top to bottom (Runtime -> Run all)
 3. The predictions will be saved as `predictions_ann.csv` after running
 
 ## Implementation Details
 
 ### Embeddings
-Two pretrained embedding models were used to convert each conversational turn into a fixed-length vector:
-- **GloVe** (`glove-wiki-gigaword-100`) — loaded via Gensim. Each word in a sentence is converted to a 100-dimensional vector, then averaged to get one vector per sentence
-- **Sentence Transformers** (`all-MiniLM-L6-v2`) — encodes the full sentence directly into a 384-dimensional vector
+Two models were used to convert each conversational turn into a fixed-length vector:
+- **GloVe** (`glove-wiki-gigaword-100`) — loaded using Gensim. Each word in a sentence is converted to a 100 dimensional vector, then averaged to get one vector per sentence
+- **Sentence Transformers** (`all-MiniLM-L6-v2`) — encodes the full sentence directly into a 384 dimensional vector
 
 ### Model Architecture
 A feedforward ANN was built in PyTorch with the following structure:
@@ -82,12 +82,12 @@ BERT's CLS token output (768-dimensional) is passed through dropout and into thr
 - Cross Entropy Loss for EmotionalPolarity (classification task)
 
 ### Training
-- Optimizer: AdamW (learning rate = 2e-5)
+- Optimizer: AdamW
 - Scheduler: Linear warmup schedule
 - Batch size: 16
 - Max sequence length: 128
 - Epochs: 3
-- Trained on GPU (T4)
+- Trained on T4 GPU
 
 ### Preprocessing
 - Data loaded from CSV files (train, dev, test)
