@@ -6,7 +6,7 @@
 ## How to Run
 1. Open `Q1_ANN_Embeddings.ipynb` in Google Colab
 2. Run all cells in order from top to bottom (Runtime → Run all)
-3. The predictions will be saved as `predictions_ann.csv` automatically
+3. The predictions will be saved as `predictions_ann.csv` after running
 
 ## Implementation Details
 
@@ -37,13 +37,14 @@ A feedforward ANN was built in PyTorch with the following structure:
 - Data loaded from CSV files (train, dev, test)
 - Malformed rows in test set skipped using `on_bad_lines='skip'`
 - EmotionalPolarity values are 0-indexed (0, 1, 2, 3) — no shifting needed
+- RESULTS WILL VARY AFTER EVERY RERUN
 
 ## Dev Set Results
 
 | Model | MAE Emotion | MAE Empathy | F1 Polarity |
 |-------|------------|-------------|-------------|
-| GloVe | 0.525 | 0.766 | 0.492 |
-| SBERT | 0.479 | 0.741 | 0.630 |
+| GloVe | 0.556 | 0.761 | 0.521 |
+| SBERT | 0.506 | 0.740 | 0.628 |
 
 ## Model Choice for Final Predictions
 SBERT was used for final test predictions as it outperformed GloVe across all three metrics, likely because it encodes full sentence meaning rather than averaging individual word vectors.
