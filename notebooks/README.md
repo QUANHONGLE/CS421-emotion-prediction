@@ -161,3 +161,20 @@ BERT's CLS token output (768-dimensional) is passed through dropout and into thr
 
 ## Output
 Predictions saved to `predictions_bert.csv` with columns: `id, Emotion, EmotionalPolarity, Empathy`
+
+---
+# Q4: LLM Prompting
+
+## Code File
+`Q4_Prompting_with_LLMs.ipynb`
+
+## How to Run
+1. Open `Q4_Prompting_with_LLMs.ipynb` in Google Colab
+2. Make sure GPU is enabled: Runtime -> Change runtime type -> T4 GPU
+3. Run all cells in order from top to bottom (Runtime -> Run all)
+4. The 5 conversations will be exported to 5_convos.csv
+
+## Implementation
+-  Utilzing pandas conversations were grouped by conversation_id and counts were taken
+-  Afterwards, conversations with 10 or more utterances were filtered out and the first 5 conversational id's were extracted
+-  Conversation id's and texts were extracted to be uploaded to a LLM for processing
