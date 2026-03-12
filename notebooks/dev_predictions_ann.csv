@@ -1,0 +1,988 @@
+id,conversation_id,turn_id,text,true_Emotion,true_EmotionalPolarity,true_Empathy,pred_Emotion,pred_EmotionalPolarity,pred_Empathy
+1,68,1,Hello how are you?,1.0,1.0,1.0,1.0886381,1,0.7748342
+2,68,2,Hello! Fine. How are you?,2.0,1.0,2.0,1.4264743,1,0.93707347
+3,68,3,I'm good thanks for asking!,2.0,1.0,2.0,1.7913196,0,1.1476107
+4,68,4,"That's good, so I guess we are supposed to discuss the article. I wonder, if my family or I were in a place where my very life was at risk, what would I do?",2.0,1.0,3.0,2.0443592,1,2.0267437
+5,68,5,That's a very scary thought to have honestly,3.0,2.0,4.0,2.9035404,2,2.7093358
+6,68,6,"Yes, I think it is something most people rather not imagine. But it is a reality. ",2.0,1.0,3.0,2.565014,2,2.2484915
+7,68,7,becoming more and more of a realityeveryday,2.0,1.0,3.0,2.2027712,1,1.8427404
+8,68,8,"Yes, it is sad for those who have to make hard decision. Sad also to hear people be so unsympathetic.",3.0,2.0,4.0,3.0214536,2,2.9418287
+9,68,9,Yes and why is America taking so few refugees?,3.0,1.0,3.0,1.9403298,1,1.9402747
+10,68,10,"Not sure, I guess refugees are not top priority for anyone.",2.0,1.0,2.0,1.8138139,1,2.0260553
+11,68,11,"Maybe I was mis understanding the article, I thought it was talking about people fleeing, looking for a safe place to live..lol",2.0,1.0,1.0,1.9757607,1,1.9990709
+12,68,12,"Yes, that was the topic of the article.",1.0,1.0,1.0,1.2748327,1,1.2481456
+13,68,13,I think everyone deserves a safe place t live,2.0,0.0,3.0,2.3077416,1,2.1634753
+14,68,14,"Yes, very much. I agree.",2.0,0.0,4.0,1.7673769,1,1.5443671
+15,68,15,I'm not sure how I would handle being in that position,1.0,1.0,2.0,1.7131271,1,1.5439093
+16,68,16,"Me either, I would like to think I would do anything to help my family and survive.",2.0,0.0,4.0,2.5212612,1,2.7196727
+17,68,17,Of course! I would probably be trying to flee as well if I'm being honest,2.0,1.0,3.0,2.061272,1,1.9729962
+18,68,18,That's brave! Hoping you would be welcomed in a foreign land. Scary thought!,4.0,0.0,4.0,2.5919287,1,2.2886121
+19,68,19,Very scary thoughts!,4.0,2.0,3.0,3.1622088,2,2.696762
+20,68,20,Is your family from an immigrant background?,1.0,1.0,2.0,1.3826313,1,1.4872699
+21,68,21,"No, not at all thankfully. Yours?",2.0,0.0,3.0,2.223445,1,1.6814827
+22,68,22,"No, I am Native American. I guess it is relative LOL",2.0,0.0,2.0,1.6695635,1,1.3733776
+23,68,23,"LOL, somewhat I guess. Where are you from?",2.0,1.0,2.0,1.3244503,1,1.0189321
+24,68,24,Arizona. And yourself?,1.0,1.0,1.0,1.3478696,1,1.0511498
+25,68,25,Kentucky. but I have been to Arizona and absolutely loved it!,3.0,0.0,3.0,1.5385201,1,1.0945545
+26,68,26,"Nice! Never been to Kentucky, what's the best place to visit?",3.0,1.0,2.0,1.729451,0,1.0462008
+27,68,27,KFC of course! Nah only joking. I think Cumberland Falls is pretty awesome! Mammoth Cave is intriging!,3.0,0.0,1.0,1.7161827,1,1.2837642
+28,68,28,LOL!!! Sounds awesome :),4.0,0.0,2.0,2.7036111,0,1.6572537
+29,68,29,I acually want to move to Arizona or New Mexico,2.0,1.0,1.0,1.6200044,1,1.4340212
+30,68,30,"Really? Life is nice and cheaper than in other states, Tucson and Flagstaff are good areas. NM is awesome BTW, I love it.",3.0,0.0,2.0,2.0783436,0,1.482069
+31,72,1,hello anyone there?,1.0,1.0,1.0,0.8177214,1,0.71656257
+32,72,2,hi,1.0,1.0,1.0,0.8685006,1,0.8158697
+33,72,3,did we read the same article? ,1.0,1.0,1.0,1.6667154,1,1.4309844
+34,72,4,Was yours about an explosion?,1.0,1.0,1.0,1.7272763,1,1.3313229
+35,72,5,"yeah, some guy stopped to sell fuel then boom!",2.0,1.0,1.0,2.115065,2,1.9279902
+36,72,6,yeah 73 people died,1.0,2.0,2.0,2.1794434,2,1.9623611
+37,72,7,what was your first reaction? ,1.0,1.0,1.0,1.3898501,1,1.0810044
+38,72,8,I was not very suprised ,1.0,1.0,1.0,2.419098,2,2.2914793
+39,72,9,really? why were you not surprised? ,2.0,1.0,1.0,2.3382714,2,1.9837393
+40,72,10,It seems to happen often in africa and the thrid world,1.0,2.0,1.0,1.8347983,1,1.609371
+41,72,11,"ooh, My first reaction was just sad for the loss of life",2.0,2.0,3.0,3.1211147,2,3.2673001
+42,72,12,Yeah it was sad but happens often. do you remember where it was exzactly ,2.0,1.0,2.0,2.7898793,2,2.8329282
+43,72,13,no\\,1.0,1.0,1.0,1.597574,1,1.3975139
+44,72,14,I think it was zimbabwae. Did your article have the actual cause,1.0,1.0,1.0,1.5144415,1,1.3546801
+45,72,15,"no they had a few suggestions, like lightning ",1.0,1.0,1.0,1.7118597,1,1.7854409
+46,72,16,I think that is unlikely but maybe. you?,2.0,1.0,1.0,1.6902304,1,1.5937533
+47,72,17,the chances of that happening are really low,1.0,1.0,1.0,1.8387995,2,1.7210624
+48,72,18,Yeah maybe a attack or something more likely ,2.0,1.0,1.0,1.5301058,1,1.5669906
+49,72,19,yeah might have been intentional ,2.0,1.0,1.0,1.5841522,1,1.6336385
+50,72,20,That makes it sort of less sad in a way to me ,2.0,1.0,1.0,2.3265605,2,2.375808
+51,72,21,yeah kinda. what emotions did you get?,1.0,1.0,1.0,2.0776486,1,1.9787328
+52,72,22,if it was an attack then more anger I guess,2.0,2.0,2.0,2.360443,2,2.3008943
+53,72,23,i felt some anger too,2.0,2.0,2.0,2.5073094,2,2.5024772
+54,72,24,was it only men or any kids die?,1.0,1.0,1.0,2.1985228,2,2.126916
+55,72,25,they did not specify ,1.0,1.0,1.0,1.2589396,1,1.1505501
+56,72,26,would it make you feel worse if so/,1.0,1.0,1.0,2.9386737,2,2.9042518
+57,72,27,yes kids are just innocent creatures ,2.0,1.0,3.0,2.620432,2,2.273951
+58,72,28,yes same for me ,2.0,1.0,2.0,1.655102,1,1.5366635
+59,72,29,anything else left to talk about?,1.0,1.0,1.0,1.136404,1,0.9202916
+60,72,30,i don't really think so we have a few rounds left tho so be quick,1.0,1.0,1.0,1.70015,1,1.5656027
+61,74,1,hello. Did you read the article?,1.0,1.0,1.0,0.95192474,1,0.8305005
+62,74,2,"hello, yes I did read the article",1.0,1.0,1.0,1.1137444,1,1.0108407
+63,74,3,Such a tragedy. My first reaction was sadness. I felt so bad for them and their families.,3.0,2.0,4.0,3.30919,2,3.3276458
+64,74,4,"It is indeed a tragedy. My first reaction was surprise, given the number of people that perished. I also feel for their families.",3.0,2.0,4.0,3.148267,2,3.017447
+65,74,5," Yes, surprise I felt that way too. I wonder what type of fire they said in the article that was burning near the tanker to cause it to explode and then they said another theory was a lightning strike. What do you think?",2.0,1.0,4.0,1.9024582,1,1.7941654
+66,74,6,Lightning strike would be incredibly unlucky and uncommon. The article didn't seem to lean towards either theory. What do you think might have been the cause?,2.0,1.0,3.0,2.0764973,1,1.915309
+67,74,7," Yeah, I see a lightning strike unlikely. They would use that as a reason I don't think I would believe that honestly. And there's no details though enough for me to even judge that I guess. They didn't really give too many details.",2.0,1.0,3.0,2.1609862,1,2.121824
+68,74,8,"Yes, either way incredibly unfortunate. They stated that over a hundred people were injured in addition to the 73 that died and many tried to get to a nearby river. I'm sure the truth will come out with that many witnesses.",2.0,2.0,4.0,2.4492142,2,2.439898
+69,74,9,"yes whenever I read that part man, I cannot even imagine, trying to get into a river on fire that would just be god-awful ",3.0,2.0,4.0,2.900327,2,2.6774802
+70,74,10,"Yes, it made me think of some war photos that I have seen with bodies in vehicles from people that also died to I believe a bombing. I wonder who will be held responsible.",3.0,2.0,4.0,2.622794,2,2.4236698
+71,74,11,"yeah, I know what you mean on that part. I wonder something this place it doesn't really say where it is besides the name Mozambique is that a region known for terrorist attacks?",2.0,1.0,3.0,1.9648309,1,1.8313451
+72,74,12,I'm not familiar with that region. I believe they said the tanker was from a nearby city. I'm guessing that it occurred on something like a highway or interstate given that the number of people that had to have been in the vicinity seemed quite large.,2.0,1.0,3.0,1.580056,1,1.7721891
+73,74,13,"I guess Google says that it is a country in east Africa the countries, 35th largest country",1.0,1.0,1.0,1.6492388,1,1.5508208
+74,74,14,"Yeah, I am not familiar with it at all besides knowing that it is in Africa. I do wonder if it could have been a terrorist attack. That would be a real shame.",2.0,2.0,4.0,2.0875628,2,2.050649
+75,74,15,"I also fetched info off of Google for that just now it says:  Mozambique is still grappling with a military insurgency in parts of the gas-rich province of Cabo-Delgado; the four-year conflict has caused an estimated 4,000 deaths and displaced nearly one million people. How to see what year there's articles from that I'm looking at, but it isn't even on there",1.0,1.0,4.0,2.160152,2,1.9886292
+76,74,16,I can't imagine living somewhere like that. I wonder what leads to something like that being allowed to happen. What is their government doing?,3.0,2.0,2.0,2.2909918,2,2.254091
+77,74,17,"Makes me thankful to be living in the USA every single day that's for sure!...(btw plz excuse my grammar mistakes and miss spellings and typos I'd like to blame it on my keyboard, but I just cannot do that.lol bcse it's totally me, but I know how to spell very clearly, but my hands are functioning today.)",3.0,0.0,3.0,2.4527915,0,1.9837182
+78,74,18,"No problem, I type faster than I should and often make mistakes. Yes, we have our own share of problems here but I am also thankful to be here. Makes me feel helpless sometimes hearing about these tragedies and not being able to do anything about it.",2.0,2.0,3.0,2.3593152,1,1.8739209
+79,74,19,"amen to that. You hit the nail on the head. We all have our own share of problems and i know there's somebody out there that always has it worse so whenever I get down on myself, I try to remember that it could always be worse.",3.0,0.0,4.0,2.5339615,2,2.3011577
+80,74,20,"Yes, whenever something like this really makes you think and trivializes everyday problems. It makes me thankful for what I have. ",3.0,0.0,4.0,2.7344246,1,2.313831
+81,74,21,"Exactly! I may not have much, but I consider myself rich, because I am thankful for every single thing that I have. That's the truth.",3.0,0.0,3.0,2.746394,1,2.5076275
+82,74,22,That is an eloquent way of putting it. I do hope that someday people that suffer like that will have only mostly trivial problems to worry about like I do.,3.0,0.0,4.0,2.8102865,2,2.5926461
+83,74,23,Right on! totally agree with you! Guess that only thing I feel like I can do is just say a prayer for them. ,3.0,0.0,4.0,2.737331,1,2.4290075
+84,74,24,"A lot of times you hear stories like this in the news there is no clue given how to send support. I wish that there was a real way to send a donation or something. But, how would that even help really?",2.0,1.0,3.0,2.6944501,1,2.7375667
+85,74,25,"If you donate to the right charity, and do our research about it, like the Red Cross, they are well known, and very credible",2.0,1.0,3.0,1.8669958,0,2.0049572
+86,74,26,That is true. I am sure that there is an organization there like the Red Cross. I imagine that they are still there helping people to rebuild their lives afterwards. It is a really selfless pursuit that people that work in those organization undertake.,2.0,0.0,3.0,2.3974679,1,2.6180255
+87,74,27," yes, the Red Cross is everywhere, and they go everywhere. All kinds of countries and help and all kinds of circumstances and I just noticed the time we're almost out of time and we still gotta do two messages each.",2.0,1.0,2.0,2.128666,1,2.1352193
+88,74,28,I remember Red Cross always have a donation stand outside of stores but haven't seen one in probably over a decade. I guess the way to make donations now is directly or online. Thanks for the chat and sharing your perspective.,2.0,1.0,3.0,2.0391042,1,2.1741428
+89,74,29,oh wow really? I miss seeing the Salvation Army at Christmas time ringing the bell.,3.0,1.0,1.0,2.6292212,2,2.5607872
+90,74,30,I still do see the Salvation Army outside of stores during the Holidays. I thought I remember seeing Red Cross too but could be wrong.,2.0,1.0,1.0,2.0498822,1,2.1586115
+91,80,1,Hello?,0.5,1.0,1.0,0.7981956,1,0.71028364
+92,80,2,Hi. what did you think of the article?,0.5,1.0,1.0,0.95062923,1,0.82402337
+93,80,3,I am shocked that this would happen. I hate to wipe out the apes!,4.0,2.0,4.0,2.6295655,2,2.242303
+94,80,4,"yeag, but everywhere you goyou will probably effect some kind of animal.  What if they just replanted afterwards too?",2.0,1.0,2.0,2.1711092,1,2.3747783
+95,80,5,"Yup. I dig. I thought that the article was oddly written, but I caught the main idea of it.",2.0,1.0,1.0,2.045606,1,1.6773261
+96,80,6,I am glad I am not the only one who had a hard time understanding it.  I think we always have to make some sort of compromise bewteen humans and other beings. we can;t just let them dictate. but I think individuals and not governements need to do it themsleves,2.5,1.0,1.0,2.4020576,2,1.9652864
+97,80,7,"Sure, It was written and then translated badly, I think.",2.0,1.0,1.0,1.7651217,1,1.8110065
+98,80,8,"yes, deinfitely not written by a native English speaker.  what would else could you gather though. I always wonder why peopel who believe in evolution try so hard to preserve species when it kind of goes against the whole idea. Maybe they could involve into something better adapted",2.0,1.0,2.0,1.9996185,1,1.9419377
+99,80,9,"What I get is that the apes (orangutans) are already at a 1700 population and then some kind of development for transport (or something) is being planned. My \feelings\"" are mostly subsumed by a cloud of mystery.""",2.0,1.0,2.0,1.6990616,1,1.7235342
+100,80,10,I'm gonna run out of time. What was even meant by the depth?,1.0,1.0,1.0,1.977648,1,1.8447243
+101,80,11,"Yeah, anyway, I dig the Darwinian aspect. I just couldn't suss out what was really going on.",2.0,1.0,1.0,2.064916,2,1.6596115
+102,80,12,yeah I don't think I even gathered that they were goinf to move them or else I forgot,1.5,1.0,2.0,1.7775259,1,1.8025849
+103,80,13,I found myself trying to re-read and then question what that was.,1.0,1.0,1.0,1.9446509,1,1.7387562
+104,80,14,I also don;t think any one entity can be so sure what is sustainable or not,2.0,1.0,1.0,1.9397681,1,1.9614583
+105,80,15,But this is going on in a place far from me as well,1.5,1.0,1.0,2.3475864,2,2.1601768
+106,80,16,"yeah, but there porbably animals dosplce when wher ew elive was settled",1.5,1.0,2.0,1.8768356,1,1.9280744
+107,80,17,"Well, it can't be as bad as California has been the last 5 years.",3.0,2.0,2.0,2.2529237,2,1.9896781
+108,80,18,the fires you mean or what?,2.0,1.0,1.0,1.2373807,1,1.1177483
+109,80,19,Yes. I am sure that there's entire species being moved ,2.5,1.0,1.0,1.7752533,1,1.8380554
+110,80,20,I don;t like it but I don;t think we should do awya with people as a solution,3.0,1.0,3.0,2.0422277,1,1.9839044
+111,80,21,...moved and wiped out and all. I have neighbors with cougars in their back yard,3.0,2.0,2.0,2.0300534,2,1.8355541
+112,80,22,wow. if all species that eve lived were still here they would not asll fit,2.5,1.0,1.0,2.015003,2,1.9217134
+113,80,23,I suppose Indonesia must be landlocked or something? Can these apes escape or...?,2.0,1.0,2.0,1.693249,1,1.6682056
+114,80,24,I think it is a bunch of islands actually,2.0,1.0,1.0,1.6164296,1,1.5822381
+115,80,25,Oh.. that's right...!,2.0,1.0,1.0,1.9905465,1,1.4693997
+116,80,26,"so I had mixed emotions to it, and I guess they evolved the longe rI thought about it",2.0,1.0,3.0,2.1259487,1,2.1871943
+117,80,27,forgot my geography for a second... must be the clove cigarettes,2.0,1.0,1.0,1.7431219,1,1.5756354
+118,80,28,"I honestly think I was thinking of somewhere else while I read it too, until you made me think about it",2.0,1.0,1.0,2.1016712,1,2.0123134
+119,80,29,they stated something like 700 to 1000 deaths out of a 1700 population - this is curiously precise math for such a sloppily translated article,3.0,1.0,2.0,2.0199537,2,1.8141068
+120,80,30,haha. yeah.  I think a lot of it was specualtion,2.5,1.0,1.0,2.0252535,1,1.8357036
+121,85,1,"Hello, good morning! How are you? ",3.0,0.0,1.0,1.536324,0,0.8865146
+122,85,2,i am good. thanks,1.0,0.0,1.0,1.7332184,0,1.2984612
+123,85,3,I guess we can discuss the article now. Firs reaction is of sadness. ,3.0,2.0,4.0,2.3261895,2,2.2828937
+124,85,4,"yes, exactly that. I was thinking that magnitudes of these calamities is the same everywhere but poorer countries are just not equipped to handle them",2.0,2.0,3.0,2.2988548,2,2.0377715
+125,85,5,"It sems that Haiti is a truly devastated country. Earthquakes, hurricanes. Worse off is the economic collapse they live thorugh. ",3.0,2.0,2.0,3.0526216,2,2.7772715
+126,85,6,Some people really get the worst birth lottery,3.0,2.0,2.0,2.8827188,2,2.2809427
+127,85,7,"Also they never really recovered from their 2010 earthquake, it seems the destrusction from then lingers on. ",2.0,2.0,3.0,2.019655,2,2.0186734
+128,85,8,It is just so much harder when you are already poor and then you have to fight these natural disasters too. They really do need help,3.0,2.0,3.0,2.9053154,2,2.803122
+129,85,9,Do you think Americans in general would support any help to Haiti? ,1.0,1.0,2.0,1.8721712,1,1.9792099
+130,85,10,I hope so. I know that people do care about those devastated by such disasters ,2.0,0.0,3.0,2.7711356,1,2.6803112
+131,85,11,For example an aid package? I am not sure how peope would react. Seeing how people were so negative about aid to ukarine,2.0,1.0,2.0,2.0356367,1,2.208654
+132,85,12,Ukraine had a political angle to it where some people thought that it could have been avoided but you can't avoid a hurricane. Hopefully media provides more awareness to people about situation in Haiti,3.0,0.0,3.0,1.9312239,1,1.855838
+133,85,13,"Maybe a ‘grass roots’ campaign? I remember years ago wealthy and influential people got together to aid the famine in Africa, that doesn’t seem to happy anymore. *im showing my age* lol ",2.0,0.0,2.0,2.28669,1,2.095385
+134,85,14,"Yeah, I remember those times, I think there is people doing it still but the scale is much smaller now. People seem to have stepped back and let the govts and aid agencies lead the relief efforts",2.0,1.0,2.0,2.7010512,2,2.431912
+135,85,15,"And you are right, politics seem to be injected (no pun intended) into EVRYHTHING now. No real altruisim without ‘angles’ now. No help without an agenda. Truly sad. ",3.0,1.0,2.0,2.4687936,2,2.0538397
+136,85,16,I do know that people struggling to put food on their table wouldn't care much about who is giving it and for what ulterior purpose.,3.0,1.0,2.0,2.5375373,2,2.462648
+137,85,17,"Great point,    Also maybe a sense of fabricated victimhood, whenever help/aid to foreign countries is mentioned, too many people bring up issues here. For example ‘we have hunger here, ‘we struggle in america too’ and all those arguments. ",3.0,2.0,2.0,2.1092093,1,2.095245
+138,85,18,Well there is some truth to that too and I have seen more money getting invested inside US which could have gone to Africa e.g. in the past but I still hope that there is enough left for those people who are really desperate and have absolutely no other means to survive except aid,3.0,2.0,2.0,2.497735,2,2.4510794
+139,85,19,"Yes, no hope for so many. Hard to imagine for people sometimes. Great talk, can I ask if you are a real person. Sorry I've talked to too many bots! :) ",2.0,2.0,2.0,2.5894647,1,2.214538
+140,85,20,lol. I am but it is getting really hard to tell bots apart these days.,2.0,1.0,2.0,2.3067303,1,1.8188214
+141,85,21,"ugh yes, but it's nice to connect with real people! you type fast!",3.0,0.0,3.0,2.5170577,0,1.807656
+142,85,22,"Not that fast unfortunately, I am struggling myself with some age related issues",3.0,2.0,1.0,2.4387949,1,2.4491289
+143,85,23,"Im sorry! I hope you take time to care for yourself, i know sometimes we care for others first.",3.0,0.0,4.0,2.504822,1,2.0425358
+144,85,24,"Well, I think this is how it should be, I am happy when people around me are happy and vice versa",2.0,0.0,3.0,2.444479,0,2.2020679
+145,85,25,"yes, i love seeing my family happy, but i have to remind myself to care for me first so i can be strong enough to care for them :)",3.0,0.0,3.0,2.9211917,0,2.5244107
+146,85,26,"Agreed. It's just that sometimes there is no choice, you have to sacrifice some self interest so that others around you can thrive. It is not fair probably but it is what it is",3.0,0.0,2.0,2.3622627,2,2.06191
+147,85,27,"yes i completely agree, we goota do what we gotta do!",3.0,0.0,3.0,2.6851914,1,1.9997964
+148,85,28,"anyhow, coming back to the story, I wish people in Haiti can pull through the hard times and would does provide them with the assistance they definitely need. There is just too much suffering going around today and anyone recovering does bring back some trust in humanity",3.0,2.0,4.0,2.7983465,1,2.779539
+149,85,29,"Yes, I hope they could recover. Their political climate is awful though and it would be very difficult for the people to thrive.",2.0,2.0,3.0,2.3533552,2,2.4419222
+150,85,30,"Politicians are self serving almost everywhere but in third world, they really are terrible. ",3.0,2.0,2.0,2.9125633,2,2.3599958
+151,96,1,Hello,1.0,1.0,1.0,0.8750808,1,0.76758796
+152,96,2,Hi!,1.0,1.0,1.0,1.0468189,1,0.7955477
+153,96,3,So the article was pretty sad.,3.0,2.0,3.0,2.6966968,2,2.5966976
+154,96,4,"Yeah, I agree, humans taking away the homes of endangered animals for work is super sad.",3.0,2.0,4.0,3.2298746,2,3.2302952
+155,96,5,I really hope someone can step in because the government there has done a poor job protecting them.,3.0,2.0,3.0,2.4697726,2,2.5424523
+156,96,6,I hope so as well. I'm surprised their lands are not more heavily protected due to them being so endangered.,3.0,2.0,3.0,2.2411234,1,2.376604
+157,96,7,It's hard to protect them when the local government puts money ahead of protecting them. It's hard for an outside group to step in.,3.0,2.0,2.0,2.2436745,2,2.2700133
+158,96,8,"Hopefully if people cause an uproar about it it'll be stopped. But, unfortunately, probably not.",3.0,2.0,2.0,2.317503,2,1.9525683
+159,96,9,I think the only way is to give their government money not to destroy their habitat but then you would have to just permanently send them money because it wont go away.,3.0,2.0,2.0,2.3476455,2,2.4985666
+160,96,10,"Yeah, or another company would have to buy it for more and have better plans for it. I'm surprised wildlife conservationists haven't bought essential lands like that. I know they own some where the rescues are.",3.0,1.0,3.0,2.1143005,1,2.3218036
+161,96,11,I bet they're looking into it since it sounds like a pretty big deal.,3.0,1.0,3.0,2.0307312,2,1.7387873
+162,96,12,I hate the fact so many people value money over the welfare of the overall planet and animals. It's so sad.,3.0,2.0,4.0,3.024633,2,2.770595
+163,96,13,"Yeah, I don't buy food with palm oil in it anymore for this reason unless it's sustainably sourced. I know that won't stop the issue but at least I can not contribute.",3.0,2.0,3.0,2.4655483,2,2.3258579
+164,96,14,I have truly not even heard of palm oil being linked to this or I haven't paid enough attention but I definitely will now. It won't stop it but enough people choosing not to buy it does impact them atleast.,3.0,2.0,3.0,2.5128732,2,2.2862785
+165,96,15,I'm vegan so I think I just hear more about some of these things from the people I follow on social media. I just want to do whatever I can and hopefully others do the same and then that's how change happens.,2.0,1.0,3.0,2.304656,1,2.2618604
+166,96,16,"Yeah, you're right. That way of thinking is what makes change happen, so that's great. I will definitely look more into it after this.",3.0,0.0,3.0,2.1601255,1,2.1302633
+167,96,17,Awesome! I'm going to read up on this issue too and see if anyone is trying to help.,3.0,0.0,3.0,2.1223571,0,1.6816274
+168,96,18,"This kind of reminds me of the show Orangutan Island on Animal Planet a while back, if you've ever seen that. I don't remember the reason why their lands were getting destroyed specifically but it was a similar issue I believe.",2.0,2.0,3.0,2.3755138,2,2.4948509
+169,96,19,"Interesting, I'll have to check that out.",2.0,1.0,2.0,1.543529,1,1.348949
+170,96,20,It was a cute show but I love animal shows. Just hopefully we stop ruining the natural habitat of so many animals because it's a widespread problem and not enough attention is called to it.,3.0,0.0,3.0,2.570738,1,2.203706
+171,96,21,"Yeah, you hate to see that kind of careless behavior. Especially when it's their own government allowing it happen.",3.0,2.0,3.0,2.528824,2,2.176057
+172,96,22,"Yep, I guess people do call attention to things, just the governments don't quite respond to the will of the people as much as they should. For example, the whole Willow Project ordeal that's happening.",2.0,2.0,3.0,2.5077693,2,2.3113728
+173,96,23,"Yeah, in general, money wins when it's either animals or the environment up against it.",2.0,2.0,2.0,2.2218606,2,2.0330648
+174,96,24,It sucks. I hope that changes in the future as climate change and animals start demanding it,3.0,2.0,3.0,2.8065078,2,2.4713345
+175,96,25,I think it's slowly changing but it may be too late.,2.0,2.0,3.0,1.9935372,2,1.772721
+176,96,26,"Yeah, we have done a number on the planet and are not reacting quickly enough.",2.0,2.0,3.0,1.965872,2,1.6308587
+177,96,27,"Yeah, the least we can do now is start trying to fix the damage we've done.",2.0,1.0,3.0,2.3102806,2,2.002832
+178,96,28,"I agree, I really hope it gets better. The future generations are in for some issues otherwise",3.0,0.0,3.0,2.6158292,1,2.3915746
+179,96,29,"It was nice talking to you, have a nice day!",3.0,0.0,1.0,1.8729682,0,1.1569171
+180,96,30,It was nice talking to you too!,3.0,0.0,1.0,2.19671,0,1.4526348
+181,98,1,Hello,1.0,1.0,1.0,0.8750808,1,0.76758796
+182,98,2,hello,1.0,1.0,1.0,0.8750808,1,0.76758796
+183,98,3,My reactions to the article was that there is work to be done. You?,2.0,1.0,2.0,1.9822686,1,1.777309
+184,98,4,i feel serious intervention is needed,3.0,2.0,3.0,2.306885,1,2.5116684
+185,98,5,That was way too many fires that took place in 2015.,2.0,2.0,2.0,2.5274782,2,2.2482834
+186,98,6,unfortunately and now they are clearing the same forest,2.0,2.0,2.0,2.1198213,2,2.0427828
+187,98,7,illegal logging is also a issue,2.0,2.0,2.0,2.2785194,2,1.8215128
+188,98,8,I wish the article would give numbers on how the company will benefit the local people,1.0,1.0,1.0,1.7219672,1,1.9183875
+189,98,9,I totally agree because there are conflicting opinions.,2.0,1.0,1.0,2.0309777,1,1.811595
+190,98,10,"Kind of confusing. Maybe the community benefits more from the company. If so, then they should also priotize the orangutuns ",2.0,1.0,2.0,1.8541667,1,1.9812324
+191,98,11,Yes I was just about to mention that.  It is said to be the third largest population of critically Endangered orangutans in the province.  That's terrible and scary.,3.0,2.0,4.0,2.8878915,2,2.6565795
+192,98,12,I believe it is very important they look into the well being of the animals not just the economic side of the palm plantation since it underscores the all purpose of that forest,3.0,2.0,3.0,2.1076782,1,2.25138
+193,98,13,"I agree the article also said something about if the conversion plans go ahead 500 to 1,000 of them will likely die or need to be rescued. Don't know if that's a good or bad thing.",3.0,2.0,1.0,2.491876,2,2.221204
+194,98,14,that's a bad thing because they estimate their population is 750-1750. ,2.0,2.0,2.0,1.9641976,2,1.7026129
+195,98,15,"Wow, that's crazy!",4.0,2.0,2.0,2.5076056,1,1.9026043
+196,98,16,these are animals that you can just replace ,1.0,2.0,1.0,2.1279202,1,2.241592
+197,98,17,"Yes, I would hate for someone to get hurt because they did state they are endangered.",3.0,2.0,3.0,2.8310237,2,2.8125286
+198,98,18,"palm oil is good, but must the plantation be there, can't they find alternatives",3.0,2.0,2.0,2.3349771,2,2.328164
+199,98,19,I feel that they should try to come up with a different plan and soon.  ,2.0,2.0,2.0,2.156573,1,2.1219428
+200,98,20,sure. Their Government needs to be part of the solution and not the problem,3.0,1.0,2.0,1.9311628,1,1.9500678
+201,98,21,I don't feel that the Government ever does enough.,2.0,2.0,2.0,2.1296825,2,1.989526
+202,98,22,"All governments are the same. Talk big, do less",3.0,2.0,2.0,1.9786966,1,1.6619304
+203,98,23,"My thoughts, exactly.",2.0,2.0,1.0,1.964546,1,1.9098976
+204,98,24,we can only hope for the best,2.0,0.0,2.0,2.267219,0,2.072454
+205,98,25,That's true because it definitely can't keep going the way it currently is.,3.0,1.0,2.0,1.8651845,2,1.6725435
+206,98,26,it may go the Amazon forest way,2.0,2.0,1.0,2.014845,1,2.0378537
+207,98,27,Yes that's true,1.0,1.0,1.0,1.5371652,1,1.4348471
+208,98,28,very unfortunate,3.0,2.0,3.0,2.319546,2,2.1773036
+209,98,29,And very sad,3.0,2.0,2.0,2.8286269,2,2.7641249
+210,98,30,it was nice chatting with you,2.0,0.0,1.0,1.8273139,0,1.2078012
+211,99,1,Hey there!,1.0,1.0,1.0,1.6395793,1,1.1365085
+212,99,2,Hey there!  How are you?,1.0,1.0,1.0,1.5389471,0,0.96210957
+213,99,3,"I'm good, how about yourself?",2.0,1.0,1.0,1.4649532,1,1.0585115
+214,99,4,I'm good myself ty,2.0,1.0,1.0,1.7885118,0,1.3817116
+215,99,5,"Good! My first reaction to the article was honestly a little surprised? I didn't know any organization was trying to protect wolves, so that was interesting to me",2.0,0.0,2.0,2.2591205,1,2.0123765
+216,99,6,Yes the article was super interesting.  I felt really bad for the wolf and am troubled by the senseless taking of a life.,2.0,2.0,4.0,2.5260868,2,2.2064896
+217,99,7,"Yeah, I guess I agree with that too. I mean I hate killing of anything alive-including plants and insects. But I will say I feel like the article kind of made it seem like this was a person that was killed-and not a wild animal.",2.0,2.0,2.0,2.9109309,2,2.5113122
+218,99,8,I think it clearly referred to the killing of a wolf not a person.  The wolf was collared by that Activist group so was off limits to any hunting. ,2.0,2.0,2.0,2.3364217,2,2.2045321
+219,99,9,"Yeah I mean it was clear, it just made it seem more important than I imagined it to be? I would expect more detail on why this wolf was important and/or not a threat and/or endangered. Instead it just said it was senseless without any great context I feel like.",2.0,2.0,2.0,2.3333206,2,2.3902786
+220,99,10,That's true.,1.0,1.0,2.0,1.5902803,1,1.4859118
+221,99,11,"But I mean, I still felt sad for the wolf, especially if it was killed without provocation. I don't understand why people like to just kill wild animals so much.",3.0,2.0,3.0,3.1111453,2,3.014644
+222,99,12,"I know.  I feel the same way.  It didn't mention provocation, so I feel it was just a senseless taking of his life.",1.0,2.0,3.0,3.0124707,2,2.9326806
+223,99,13,"Yeah I wouldn't be surprised by that. I am interested too into what kind of research and goals that organization has too. I also wonder if that poor wolf ever had a mate before, it's sad :(",3.0,2.0,3.0,2.2819319,1,2.1317053
+224,99,14,It is really sad.  Like you said about why people like to hunt wildlife so much?  I think it,3.0,2.0,3.0,2.7863138,2,2.7529504
+225,99,15,I wonder if they are going to investigate to find who killed the wolf?,2.0,1.0,2.0,2.1763003,2,1.9904416
+226,99,16,I think they said something about that.  I don't know if they can catch the person who did this but it does bring awareness to these types of things.,2.0,1.0,3.0,2.355509,1,2.391037
+227,99,17,Yeah that's a good point,2.0,1.0,2.0,1.5174438,1,1.4561745
+228,99,18,"Thank goodness for that group looking out for wolves, right?",3.0,0.0,4.0,2.2417924,1,1.9865061
+229,99,19,"I mean I guess, I don't know I'm still not convinced that wolves are out number one priority. It's just new information to me that we should care about them?",2.0,2.0,2.0,2.1941743,2,1.9739852
+230,99,20,"Maybe not our number one priority, but I think there is definitely room on the agenda. (:  I guess I have never given a lot of thought to wolves, but then again I didn't necessarily know that they were hunted. ",2.0,0.0,3.0,2.187531,1,2.1359205
+231,99,21,"Yeah, see, totally same! I'm interested and maybe a little surprised. But definitely sad to hear of a senseless killing.",2.0,2.0,3.0,2.8431134,2,2.593454
+232,99,22,Absolutely!,3.0,1.0,3.0,1.8488843,0,1.4830076
+233,99,23,"I wonder if they will take this opportunity to try and change their methods, too. Like maybe they will make their collars more obvious or put more signage along normal travel routes for the wolves or something",2.0,0.0,2.0,2.3322885,1,2.511506
+234,99,24,Those are both great ideas.  The part about the signage I hadn't thought of.,1.0,0.0,2.0,1.9703531,0,1.9097238
+235,99,25,"Yeah, did you feel any particular way when you first read the article?",1.0,1.0,2.0,1.4080857,1,1.3056978
+236,99,26,Yes.  Surprised and then very sad.  Also gave me a new perspective on wolves.  How about you?,3.0,2.0,3.0,2.4577732,1,2.2393231
+237,99,27,"Yeah I would agree, a bit sad, but surprised and interested. Curious to learn more, too.",3.0,2.0,2.0,2.3681335,2,2.270856
+238,99,28,"Yes would love to hear more. What this group does, what states they are in.  Things like that.",2.0,1.0,3.0,2.0191739,0,1.7011967
+239,99,29,"Yeah exactly, I am curious about what they do and what they protect. I might google them in a bit!",3.0,0.0,2.0,2.0067916,1,1.7585146
+240,99,30,Yes.  I hope for the best for them.  It has been a real pleasure chatting with you and sharing our thoughts and feelings about this.,2.0,0.0,3.0,2.5647738,0,2.1820946
+241,101,1,Hello,1.0,1.0,1.0,0.8750808,1,0.76758796
+242,101,2,"Hi, how are you!  So glad to be matched!",4.0,0.0,1.0,2.0419745,0,1.2655458
+243,101,3,"You sound excited :D Doing good, how are you?",2.0,0.0,1.0,2.0598376,0,1.2673001
+244,101,4,"I have tried a few of these HITs and this is the first that seems to be going correctly, yea!",4.0,0.0,1.0,2.0105844,0,1.4235747
+245,101,5,"ah i see. Yes I tried one earlier and it just says \Initializing\"" forever. I submitted the HIT regardless although I wasn't connected to anyone after 20 minutes""",2.0,1.0,1.0,2.3403444,1,1.9891584
+246,101,6,"Me too, I think I was paid.  Anyway this is a shorter article.  It was news to me about this agency and their work, had you heard of them before?",2.0,1.0,1.0,2.0220363,1,1.602104
+247,101,7,"I have not heard of it before. I also have no heard of \government snipers\""""",2.0,1.0,1.0,1.7490413,1,1.4541312
+248,101,8,Right that comment or call out really did not align with trigger happy exterminators to me,2.0,1.0,1.0,2.7998643,2,2.2752986
+249,101,9,"I wasn't sure who actually gunned the wolves down. Was it done for fun or some specific purpose? If it was done for fun, that was really cruel",3.0,2.0,3.0,2.8526096,2,2.5454922
+250,101,10,"I agree.  Sounds like they are catching, and putting trackers on these animals then letting them do their thing.  If doing their thing may mean attacking I can see why some may want to eliminate them as predators",2.0,2.0,1.0,2.4646697,2,2.3337324
+251,101,11,"I can see that. If the wolves are attacking children, pets etc, I probably would do something about it either. It really depends on the context. In this case, I am not really able to judge appropriately. But I am saddened by the killing definitely.",2.0,2.0,3.0,2.7558947,2,2.7413793
+252,101,12,"Yes, I just looked up the center for bio diversity, it is relatively small but has doubled in size over the past several years",2.0,1.0,1.0,1.8266203,0,1.6150037
+253,101,13,Is it located in the west? ,1.0,1.0,1.0,1.1934946,1,1.0090555
+254,101,14,It is based out of Arizona,1.0,1.0,1.0,1.4622521,1,1.1920362
+255,101,15,"That makes sense. Now that I think of it, I don't think I've seen wolves out where I am. I'm in the northeast ",2.0,1.0,1.0,1.6627824,1,1.645248
+256,101,16,"oh actually this is interesting, there is a map of wolf packs when I search the Huckleberry pack: https://pacificwolffamily.org/thehuckleberrypack/",2.0,0.0,1.0,1.9125631,1,1.8058368
+257,101,17,I thought they always travel in pack but the article says that they leave their pack in search of new territories,2.0,1.0,1.0,1.5485761,1,1.7181365
+258,101,18,"Yes and I just assumed the pack was big, this one was only 7 members and I believe the local authorties killed it after killing sheep.  ",2.0,1.0,1.0,2.0554767,1,1.9306353
+259,101,19,So the news is real?,2.0,1.0,2.0,1.5171568,1,1.2633209
+260,101,20,"I think so at least it is documented elsewhere.  It also sounded like this was the lead female, I also assumed male but maybe females lead wolf packs due to breeding",2.0,1.0,1.0,1.9541526,1,1.952126
+261,101,21,"\A young male wolf was tragically gunned down by a government sniper\""--it says male here""",1.0,1.0,1.0,2.4769244,2,2.3178782
+262,101,22,Huh that does not align with what I was reading else where,2.0,1.0,1.0,1.9727035,2,1.5812981
+263,101,23,"Maybe that was another wolf. Feel conflicted about this though, if the wolves are out there killing sheep, and if those were my sheep, I would probably want the authority to do something about it",3.0,1.0,2.0,2.6451905,2,2.487524
+264,101,24,I agree fences can only do so much.  If we really want to save them maybe they should be in reserve somewhere,2.0,1.0,3.0,2.1691017,1,2.1634269
+265,101,25,"Yes, I wonder how many Huckleberry pack wolves are gunned down per year. If they are at the brink of extinction, I think we should do way more than just putting a collar on them and tracking them",3.0,2.0,3.0,2.4505532,1,2.324482
+266,101,26,"right and that goes back to the pack size, I don't know if certain packs are unique breeds or just a unique pack and how big it may have once been",2.0,1.0,2.0,1.9931028,1,1.8053606
+267,101,27,"Maybe the Center for bio diversity should set up a help line or something for people to call them when the wolves are causing \trouble\"" """,2.0,1.0,2.0,2.4449735,2,2.2640495
+268,101,28,"that would be a good idea, I was thinking these wolves need to be marked more than electronically - like visually, I know fur sheds but some type of florescent marker, like collar",2.0,0.0,2.0,2.1024516,1,2.2395542
+269,101,29,Like an ear tag,1.0,0.0,2.0,2.029372,1,2.0086432
+270,101,30,"that would be a good idea, I was thinking these wolves need to be marked more than electronically - like visually, I know fur sheds but some type of florescent marker, like collar",2.0,0.0,2.0,2.1024516,1,2.2395542
+271,102,1,"Hi there, what was your first reaction overall from reading?",0.0,1.0,1.0,1.644923,1,1.3234185
+272,102,2,"light on facts, too emotional",2.0,2.0,1.0,2.4900348,2,2.1008859
+273,102,3,"How did you feel about it being a story about a wolf instead of a person, did that matter to you?",1.0,1.0,1.0,2.000371,1,1.7765672
+274,102,4,obviously that would be drastically different,3.0,1.0,1.0,2.1305273,1,2.0814312
+275,102,5,What was your first reaction when you learned the wolf got shot?,1.0,1.0,1.0,2.2139199,1,2.052148
+276,102,6,i didn't know what to feel because i don't understand the reasons,1.0,1.0,1.0,1.656754,1,1.730662
+277,102,7,What emotions did you go through thinking about the wolf dying?,1.0,1.0,1.0,2.5980098,2,2.653606
+278,102,8,confusion mainly,2.0,1.0,1.0,1.3758485,1,1.3380604
+279,102,9,"What about the government sniper, how do you feel about him?",1.0,1.0,1.0,2.1861024,2,1.8326056
+280,102,10,"a hell of a job title, doing his job i guess",2.0,1.0,1.0,1.9152546,1,1.5883322
+281,102,11,Did you think there could have been a better way for them to present the information about the wolves brutal deaths?,1.0,1.0,2.0,2.6227686,2,2.6196747
+282,102,12,sure they never explained the motivation,1.0,1.0,1.0,1.6726465,1,1.5760298
+283,102,13,"I agree, I was wondering what could of driven that, did you think about anything other than the wolf?",2.0,1.0,1.0,2.0103955,1,1.9510322
+284,102,14,no not really,1.0,1.0,1.0,1.6344593,1,1.4732152
+285,102,15,Did you have strong emotions or light emotions?,1.0,1.0,1.0,2.082629,1,1.9813874
+286,102,16,light emotions because lack of detail,2.0,1.0,1.0,2.2690516,2,2.1691616
+287,102,17,"What about overall, how did you feel about it concluding everything, do you think it generic story?",1.0,1.0,1.0,1.418865,1,1.2386281
+288,102,18,it was strange,2.0,2.0,1.0,2.3062987,2,1.8726052
+289,102,19,Do you think the scientists can actually do anything to stop the violence they mentioned?,1.0,1.0,2.0,2.002148,1,1.6520994
+290,102,20,there has to be an official policy,2.0,1.0,1.0,1.8812261,1,1.8282852
+291,102,21,"What about the activists, how do you feel about them overall?",1.0,1.0,1.0,1.689256,1,1.4446409
+292,102,22,heart's in the right place,2.0,0.0,2.0,2.247832,1,2.2440825
+293,102,23,"Yeah I also feel that way, I do doubt their impact though. Do you think they have a small chance or large chance at succeeding?",2.0,1.0,2.0,2.1308827,1,2.0206084
+294,102,24,against the government? small chance,2.0,2.0,1.0,1.6541638,1,1.4846793
+295,102,25,"Yeah, the courts specifically. Do you think the courts would even give them a fair chance at holding others accountable?",1.0,1.0,2.0,2.201854,1,2.0250049
+296,102,26,if a law was broken then they have standing,2.0,1.0,2.0,1.6769466,1,1.6277587
+297,102,27,That may be true. Did you learn anything new from the story at all?,1.0,1.0,1.0,1.8584282,1,1.6701326
+299,102,29,"Maybe so, I'm not sure I have another way to look at it. I didn't have many thoughts about the story. Do you think it was a good story?",1.0,1.0,1.0,2.1069522,1,1.9316871
+300,102,30,no because there is a large lack of details,2.0,1.0,1.0,1.8832979,1,1.707114
+301,105,1,Hello,1.0,1.0,1.0,0.8750808,1,0.76758796
+302,105,2,"Hi, you read the article?",1.0,1.0,1.0,0.9464473,1,0.9114712
+303,105,3,"I did yes, about the wolf?",1.0,1.0,1.0,1.3505167,1,1.1945999
+304,105,4,yup,1.0,1.0,1.0,1.1971374,1,1.1886852
+305,105,5,It did not really bother me.  I am fairly certain the wolf population is pretty strong.,1.0,0.0,1.0,2.3476245,2,2.1686773
+306,105,6,"Yeah. What I couldn't figure was: What is the story with the \government sniper\"" ?""",2.0,1.0,1.0,2.0887506,2,1.8252821
+307,105,7,Sounded like the person who wrote it was anti-hunting and took offense.  I am guessing they were culling the herd to protect farm animals or something.   Maybe it was attacking endangered species.,2.0,1.0,1.0,2.526736,2,2.2942286
+308,105,8,Apparently he was doing target practice,2.0,1.0,1.0,2.0452113,1,1.9382609
+309,105,9,Did you look it up?,1.0,1.0,1.0,0.9401287,1,0.78628933
+310,105,10,"no, but, There's very little info in this article to go by.",1.0,1.0,1.0,1.3262107,1,1.249927
+311,105,11,Without some kind of information that says it was illegal I have no issue with it.,2.0,1.0,1.0,2.3309557,2,1.934345
+312,105,12,"I was kind of joking about \target practice\""""",2.0,1.0,1.0,1.7021577,1,1.4778903
+313,105,13,"I don't hunt though, never saw the fun in it.",1.0,1.0,1.0,1.7504618,1,1.5358486
+314,105,14,It has been said that there are animals such as the dire wolf that are approaching extinction.,2.0,2.0,2.0,2.5036569,2,2.442823
+315,105,15,That would be a different story for me.,2.0,1.0,2.0,2.3551714,2,2.2079525
+316,105,16,"Yup. I don't know. If it need to be killed, that's one thing.",2.0,1.0,1.0,2.327841,2,2.225241
+317,105,17,The author should have added real details,2.0,1.0,1.0,1.744549,1,1.6741197
+318,105,18,I feel perhaps just as bad for the research team whose data the sniper destroyed.,2.0,2.0,1.0,2.269738,2,1.9475625
+319,105,19,I wonder what the researchers think about it.,2.0,1.0,1.0,1.1393039,1,1.0824153
+320,105,20,"it says that they go to court and fight for this sort of thing. Which is admirable, I guess.",2.0,0.0,1.0,2.07677,1,1.9435039
+321,105,21,I think that there are better things to fight for.,2.0,2.0,1.0,1.9697604,1,1.8857051
+323,105,23,"Right, it's hard for me to give much of myself to it.",2.0,1.0,1.0,2.0943851,2,1.9801614
+324,105,24,"Not to overstate things, but I still wonder what capacity was the \sniper\""""",2.0,1.0,1.0,2.0885756,1,1.9382787
+325,105,25,"The only other mention was \exterminators\""""",1.0,1.0,1.0,1.9774408,1,1.6926684
+326,105,26,"Yeah, that's right!",2.0,1.0,1.0,1.6855671,1,1.3539226
+327,105,27,I think it was just too slanted of an article,2.0,2.0,1.0,1.9284737,1,1.6462057
+328,105,28,"I would say so. If that (the sniper) could have been expounded on, I may have more to relate.",2.0,1.0,1.0,2.2126567,1,2.2475505
+329,105,29,"Yeah, there has to be something of substance before I could put a lot of care into it.",2.0,1.0,1.0,2.0138438,1,1.8565459
+330,105,30,700 miles is a long ride,2.0,1.0,2.0,1.3764858,1,1.1875682
+331,107,1,Hi!,0.0,0.5,1.0,1.0468189,1,0.7955477
+332,107,2,Hello!,0.0,0.5,1.0,1.1071267,1,0.7833656
+333,107,3,What was your first impression about the wolves article?,1.0,1.0,1.0,1.6785479,1,1.4572344
+334,107,4,"Ugh. It kind of broke my heart to think about that young wolf working so hard to explore and try to find a pack/mate, only to be gunned down. :/ How about you?",4.0,2.0,4.0,2.713569,2,2.3342748
+335,107,5,"I understand. My first impression is that it will be difficult to prevent people from fighting back when they see a wolf hanging around. Although it's kind of sad, yes.",2.0,1.5,2.0,2.7607749,2,2.7025537
+336,107,6,"Yeah, I can understand that they can be dangerous. I think they mostly attack livestock though, which I know farmers have a problem with too!",3.0,1.0,2.0,2.3810182,2,2.039412
+337,107,7,I guess it's normal to feel sorry for the wolf but it's hard to tell what's right in that situation since the first thing that comes to mind is that it's dangerous.,2.0,1.0,3.0,2.826873,2,2.7425117
+338,107,8,"One thought that comes to mind is that maybe there needs to be a better thought out/coordinated plan. For example I'm sure the org that raised/protected the wolves must have known they would wander hundreds of miles, and likely into other states, right?",1.0,1.0,2.0,1.8078079,1,1.8344574
+339,107,9,If something is not well planned. They must take these situations into account and prevent them.,1.0,1.0,2.0,2.275035,2,2.1845531
+340,107,10,"Yes for sure. Like they could have coordinated in advance with the gov agencies in adjacent states to see if they would agree in advance to shoot the wolf with a tranquilizer gun instead or something, and transport it to a place like a wildnerness zone way up in the mountains or something. ",2.0,1.0,3.0,2.1112638,1,2.047301
+341,107,11,"It is difficult, perhaps if they do that the wolf will be disoriented and lost and will not be able to return to the pack. Although that's better than just being killed.",3.0,1.0,4.0,2.7921946,2,2.8084817
+342,107,12,"Yes, for sure. I don't know about wolves and relocation, but whatever their plan was seems a bit shortsighted maybe. I know there was a similar story in California and a wolf traveled all the way down the cascades and then sierras, only to be hit by a car on the freeway in Southern California. Ugh.",3.0,2.0,4.0,1.785902,1,1.8501247
+343,107,13,"Well, it's complicated but there must be ways to prevent it. Maybe have them monitored and somehow prevent them from reaching certain places and zones.",1.0,1.0,2.0,2.1440969,1,2.2692578
+344,107,14,"Yes, good idea. I had thought there are so few they are all monitored, but maybe not!",2.0,0.0,2.0,2.2476826,1,2.2021112
+345,107,15,They should give more importance to these issues and make them more public,2.0,1.0,2.0,1.815479,1,1.9589384
+346,107,16,"Yes I agree. And I have mixed feelings because I know the elimination of apex predators can have a domino effect on the environment, but at the same time, we don't live in wilderness with no fences any more, and a lot of the big predators have huge ranges. So I'm not sure what the right solution is!",2.0,1.0,2.0,2.3642795,2,2.3071613
+347,107,17,Could you tell me more about that domino effect you speak of?,1.0,1.0,1.0,1.7096331,1,1.7180507
+348,107,18,"Well I read an article once about the effect of no wolves on the environment in Yellowstone, and from what I understand the lack of wolves caused a proliferation of deer, which stripped the bark from the trees, which led to other consequences, and the whole biome kind of got out of whack. Apparently since the reintroduction of wolves, it has righted itself!",2.0,0.0,2.0,2.1913247,1,2.0860755
+349,107,19,how interesting. I would like to learn more about these effects of the lack of certain predators,1.0,0.5,2.0,2.1024249,1,2.097901
+350,107,20,"There might be a Netflix documentary on it? It was really interesting and I had no idea until I came across it. But I also know Yellowstone is unlike most places in the US, but I'm glad we are able to keep some places \wild\"" still.""",2.0,0.0,1.0,1.6424868,0,1.3267585
+351,107,21,I'll take some time to watch those documentaries. It's good to know about those things.,2.0,0.0,1.0,1.7859948,0,1.4885905
+352,107,22,"Yes, I agree. Somewhat sad, but better to know than to not know! ...Alaska still seems pretty wild too, so hopefully we can keep it that way. *fingers crossed*",2.0,0.0,2.0,2.6052606,2,2.4607925
+353,107,23,"I love alaska and shows about self-sufficient people who live there. Returning to the subject of wolves, what would the wolf do if it found another territory to call its pack?",2.0,0.5,1.0,1.8673456,1,2.041263
+354,107,24,"I think it would have babies and start its own pack, no? But that is also a bit sad because like the one who showed up in SoCal, he would have never run into any other wolves and would have wandered forever in search I think. Poor guy!",3.0,2.0,2.0,2.2104864,2,2.2613392
+355,107,25,"How would he have babies if he is alone. He would need a female, right?",2.0,1.0,1.0,1.9590313,1,1.8777126
+356,107,26,"Yes, exactly. So I think the organizations usually start a pack or two up in certain places, but I have no idea what their plan is after that...",1.0,1.0,1.0,2.0539422,1,2.0960476
+357,107,27,"Well, I think tonight I will see some videos of wolves",0.0,1.0,1.0,2.316481,1,2.0953488
+358,107,28,I think I might too! I'll see what other content is out there and remind myself of the Yellowstone saga. It was pretty cool and I remember being quite moved by it.,3.0,0.0,1.0,1.864764,0,1.3774213
+359,107,29,I will also look into that case in Yellowstone.,1.0,1.0,1.0,1.6229856,1,1.6152687
+360,107,30,I hope you enjoy and it was very nice talking with you!,3.0,0.0,1.0,2.1897402,0,1.4171767
+361,108,1,Hello,1.0,1.0,2.5,0.8750808,1,0.76758796
+362,108,2,"Hi.  How did the article make you feel?  I felt sad for the victim and their family, but also confused about what motivated this murder.",3.0,2.0,3.0,2.4294424,2,2.3276603
+363,108,3,I felt sad for the victim and family as well. I was confused as well. I figured that the gunman had something against Michael. I wish there some more details included.,3.0,2.0,3.0,2.6754096,2,2.5811648
+364,108,4,"Yes, I thought it was quite curious, perhaps even conspicuous, that there was basically no description of the murderer at all.  It makes me wonder what's being hidden.  At least they're dead.",3.0,2.0,2.0,2.6133301,2,2.4301958
+365,108,5,True. I also wonder how he was able to get a gun into the airport. Or perhaps it was in a public area? I think the article mentioned it was somewhat close to the employee parking.,3.0,1.0,2.0,2.0492487,1,1.9653653
+366,108,6,"Yes, I think it was in the parking area, although I also think there are ways around airport security, unfortunately.  I thought the sadest thing was learning of the victim's children.  Obviously most 52-year-olds have children, but to have it explicitly stated makes it strike home that those adult children just lost their dad.",4.0,2.0,3.0,2.794372,2,2.78371
+367,108,7,"Yeah, I couldn't imagine losing my father suddenly like this. It is cool that his children are athletes as well though. I'm sure he was really proud of their success.",4.0,2.0,1.5,3.1264684,1,3.053975
+368,108,8,"Yes, I'm sure.  And I'm sure they were proud of him.  But I imagine that makes the loss even harder.",4.0,2.0,2.0,2.6942465,2,2.7854762
+369,108,9,Yeah. Do you think the airport handled this appropriately? Diverting almost all flights and stranding those inside the terminal for hours?,1.0,1.0,1.5,2.2187626,1,1.9455998
+370,108,10,"It's a tough decision. I don't think they handled it correctly, frankly.  But I'm also not surprised.  When something bad happens at an airport they usually shut things down.  But it's a good question.  I'm really not sure.  What are your feelings on the airport's response?",2.0,1.0,2.0,1.9120669,1,1.7835834
+371,108,11,I think its better to be safe then sorry. I suppose they probably thought the gunman was running around the airport at first before they found him in the truck. I just wonder why it took so long. ,2.0,2.0,1.0,2.0451007,1,1.9796646
+372,108,12,"Yeah, I'm not sure.  I know I'd be furious if I were in that situation and my flight was canceled.  To a large degree I think we punish the masses for the sake of the few far too often in this society.  But that's another issue.",2.0,2.0,1.0,2.512925,2,2.1657205
+373,108,13,"I would be too, especially if it was an important trip. I'd also agree with your point. I wonder why the police also received reports of a second victim. That probably contributed to things being shut down. ",2.0,2.0,1.0,2.2323234,1,2.1625
+374,108,14,"Yes, for sure.  I'm sure when things like this happen there are rumors flying all over the place.  People get information wrong, pass on information incorrectly, imagine things.  People aren't good witnesses.  So I'm sure in an instance like this--in all that chaos--there's all sorts of incorrect information or speculation and that uncertainty is one of the reasons why the whole airport can get shut down.",2.0,2.0,1.5,2.297337,2,2.0089393
+375,108,15,"Yeah I suppose when there are lots of people in one place like this, when things go down it would be a bit crazy. Information may come in, but it has to be verified by looking at the footage, searching the airport, etc. Do you think anything could have been done to prevent the attack, or was it just something no one could have anticipated?",2.0,1.0,2.0,2.2842627,2,2.079193
+376,108,16,"It's hard to say without more evidence of what actually motivated it.  I think the reality is that if one deranged person wants to kill you, there's not a lot you can do to stop it.  That's just life, and we shouldn't turn the world upside down to stop things we can't stop.",2.0,2.0,2.0,3.2745597,2,2.642467
+377,108,17,"Yeah, once again I wish there was some more information here. I would have really liked to know what happened between the two. I also want to know if the gunman previously had issues or anything. I also wonder if Michael knew the gunman was after him. I'd agree, we can't put so much security and limitations in place that it impacts our lives to a major degree. It would be a pain to live that way.",2.0,2.0,3.0,2.2542765,1,1.9486488
+378,108,18,"Yes, it's a curious story.  I'd say that by definition the killer had issues to do this.  But again, it's totally unclear what precipitated this.",2.0,1.0,1.0,2.219241,2,2.0375032
+379,108,19,I do wonder if the gunman used to work with the victim. Without some serious stalking I'd say that's the only way he knew their schedule/routine.,1.0,2.0,2.0,2.2493043,1,2.183795
+380,108,20,"Yes, that's certainly possible.  It's amazing to think a workplace conflict could lead to murder, but something did.  I thought it was conspicous that no details were given about the identity of the killer.  That usually means they're black.",2.0,2.0,2.0,2.8632271,2,2.495706
+381,108,21,"I've certainly worked with some people that were a little off. I've always tried to avoid any conflict with people like that. The media/police do tend to hide identity when its someone who isn't white, I wish that trend would stop. People of all kind commit crime.",2.0,2.0,3.0,2.6093738,2,2.1927006
+382,108,22,"Yes, the media is just propaganda now.  It's hardly worth paying attention to.  There's lots more to be said about media in gernal but it's not really germane to this story.  If you were one of the victim's family members, would you rather not know the motivation for your father's killing?  Or would you rather find out it was something bad, like he was having a homosexual affiar or something disgusting?",2.0,2.0,2.0,2.506956,2,2.160092
+383,108,23,"Its hard to media that just sticks to the facts, and the stuff relevant to the story. Plus stuff that is truly unbiased. I'm really not sure what I'd want to learn. I wouldn't want to learn that my father was involved in anything bad, but would at least want to know some of the motivation behind the attack.",2.0,1.0,3.0,2.513614,2,2.1090498
+384,108,24,"Yes, I think I agree with that.  Either way it's very sad for his family.  I wonder how the family of the murderer feels.  They must have mixed, strange emotions.",3.0,2.0,4.0,2.7279322,2,2.7728071
+385,108,25,"If I was the family of the murdered I would feel really ashamed, unless somehow they felt going after Michael was warranted somehow. I guess it all depends, without the information its hard to make a full judgement.",3.0,2.0,3.0,2.453209,2,2.2346973
+386,108,26,"Yeah, I wouldn't be happen with what he did.  But he's also dead.  They also lost a loved one.  That's why I say it would be mixed emotions.",2.0,2.0,3.0,2.8054893,2,2.915546
+387,108,27,Yeah. Well it looks like we are coming to our final messages. Its been good talking with you. I'm glad you feel the same way about the article.,2.0,0.0,3.0,2.067727,0,1.3836346
+388,108,28,"Yes, thanks for chatting.  It's been good.",2.0,0.0,2.0,1.6672368,0,1.0684402
+389,108,29,"Yeah, thank you, so long.",2.0,0.0,4.0,1.9000363,0,1.6633645
+390,108,30,Goodbye. Take care.  I hope you don't experience anything like this story.,2.0,0.0,3.0,2.3823292,1,1.9438925
+391,109,1,"Hi, how are you?",1.0,1.0,0.0,1.1177499,1,0.8075975
+392,109,2,"I'm well thanks, how about you?",2.0,0.0,0.0,1.6264963,0,1.0959449
+393,109,3,"Doing good, thanks! So, what do you think about the article?",2.0,0.0,0.0,1.5104648,0,1.0943551
+394,109,4,It was pretty sad.  It's unfortunate to lose a loved one in such a violent and unexpected way.,3.0,2.0,4.0,3.5255966,2,3.61758
+395,109,5,I feel the same way. I also feel saddened by the event. An attack on another human being shouldn't have happened in the first place,3.0,2.0,3.5,3.1980908,2,2.9465165
+396,109,6,"Agreed.  What was solved, really?  What did the attacker get out of it?",2.0,2.0,4.0,2.2897077,2,1.9370675
+397,109,7,"Revenge or to make themselves feel better. But that was not an excuse at all, they are evil! ",4.0,2.0,4.0,3.3904972,2,2.812547
+398,109,8,And whatever positive emotions they did feel didn't last long considering they committed suicide.,3.0,2.0,3.5,2.489871,2,2.6365335
+399,109,9,What's worse is the family who was left behind. I can't' imagine how I'd feel if I was them,3.0,2.0,5.0,3.1505973,2,3.2070508
+400,109,10,Both families are probably wrecked.  ,3.0,2.0,4.5,2.4176996,2,2.4967356
+401,109,11,Such a mess as well. Hundreds of people were stranded in the airport,2.0,2.0,3.5,2.466513,2,2.4046364
+402,109,12,Its too bad the attacker was so unhinged.  I wonder what caused it?,3.0,2.0,3.0,3.2141478,2,2.8186114
+403,109,13,Do you think this was a real crime? Maybe can find that out online,2.0,1.0,2.5,2.086504,1,1.8288143
+404,109,14,"I suppose we can Google the victim's name.  It was in the story, Michael Winchester",2.0,1.0,2.5,2.5253048,2,2.2988718
+405,109,15,Oh I think it's a true story,2.0,1.0,3.0,2.1322644,1,1.8315952
+406,109,16,"Yeah, looks like it was revenge due to losing his job",2.0,1.0,2.0,2.568496,2,2.3821807
+407,109,17,"dang, that was such a stupid reason",3.0,2.0,2.5,2.2251136,2,1.7914207
+408,109,18,"Yeah, it was just a job.  Find something else and move on.",2.0,2.0,3.0,2.2029939,2,1.9371712
+409,109,19,"To be honest, in some way I am glad that the gunman died, but in another perspective, I think more effort should be put into mental health care and support",3.0,1.0,3.0,2.878313,2,2.8634868
+410,109,20,"For sure, this was something he could have dealt with constructively rather than what he chose",2.0,1.0,3.0,2.2237656,1,2.2273774
+411,109,21,Maybe the company should provide some kind of help as well when they are firing people,2.0,1.0,2.5,2.1400113,1,2.2073898
+412,109,22,He was terminated for drinking on the job.  Sounds like he was battling alcoholism.,2.0,1.0,2.5,2.4257298,2,2.2798142
+413,109,23,oh I see. I didn't see that part. Thanks for the context. This guy had so many issues!,3.0,2.0,2.5,2.316783,1,2.0944912
+414,109,24,"Things just kept piling up in his mind, I suppose.",2.0,1.0,2.0,2.1707077,1,2.012271
+415,109,25,Killing other people and himself was probably his last resort... ,2.0,2.0,2.0,2.6477633,2,2.233025
+416,109,26,His only way out,2.0,1.0,2.0,1.9263141,1,1.632622
+417,109,27,Wish he could have gotten help and not ruin another person's life,2.0,2.0,3.5,2.8150523,2,2.9756007
+418,109,28,"I wonder what his family thought before hand, how his mental state was?",1.0,1.0,2.0,1.7989969,1,1.9631152
+419,109,29,Agree. I think we have similar reactions and feelings towards this incidents,2.0,1.0,2.0,2.3732343,1,2.183507
+420,109,30,"Yes I think so.  The world failed both people, our handling of mental health issues just isn't up to par.",2.0,2.0,4.0,2.5085092,2,2.3575835
+421,110,1,Hello. did u  read the article?,1.0,0.5,0.0,1.0580083,1,0.88648427
+422,110,2,"yes i did, it was pretty upsetting, what was your first reaction from it?",2.0,2.0,2.0,2.088394,1,1.657558
+423,110,3,"I think it was such a tragedy, and I felt so bad for the victim the victims family and kind of a little bit angry as well because of the man who committed the crime it was unnecessary ",3.0,1.5,4.0,2.7714303,2,2.6198957
+424,110,4,"It's horrible that someone would do something like this, especially at an airport where so many people are just trying to travel safely.",3.0,2.0,3.0,3.0148294,2,2.7275205
+425,110,5,yes I totally agree. There were so many people probably affected by it that had to witness it as well.,2.0,1.5,3.0,2.5852873,2,2.5594625
+426,110,6,What emotions did you get from it?,1.0,1.0,1.0,2.2055345,1,2.1081412
+427,110,7,"sad and also, angry because of the man who committed the crime. What emotions did you get from it?",3.0,1.5,3.0,2.3712351,2,2.216293
+428,110,8,"I felt a mix of sadness, anger, and concern. Sadness for the victim and their family, anger towards the shooter for committing such a heinous act, and concern for the safety of everyone who was at the airport at the time of the shooting.",3.0,1.5,4.0,2.3820198,2,2.4801397
+429,110,9," yes, I agree. That covers how I feel as well. ",2.0,1.0,4.0,2.2934566,1,2.1863718
+430,110,10,"I also felt sympathy for Michael Winchester's family, especially his son who is a professional football player for the Kansas City Chiefs",2.0,2.0,4.0,3.2664392,2,3.1738055
+431,110,11,"Yes, I saw that as well about his son plays for the Chiefs and his daughter is also a student athlete too",2.0,1.5,3.0,2.3835673,0,2.282061
+432,110,12,It just goes to show that these tragedies could happen to anyone at any time,2.0,1.5,3.0,2.7387862,2,2.4822547
+433,110,13,yes that's the truth. It's awful and scary to think that it could happen to anybody anywhere.,2.0,2.0,3.0,3.0317998,2,2.7065868
+434,110,14,I know!,3.0,1.0,2.0,2.05888,1,1.6088678
+435,110,15,I'm curious and wondering how the guy got past airport security with a gun? ,1.0,1.5,2.0,1.8749447,1,1.6890101
+436,110,16,"That is a good question, I guess someone dropped the ball",1.0,1.5,2.0,1.6932774,1,1.7453947
+437,110,17,"Yeah, that's for sure! It never mentioned it in the article that I saw. Did you see anything about how the guy got past them with a gun? ",2.0,1.0,2.0,1.9216175,1,1.625906
+438,110,18,"I did not see any info about that, do you have any guesses as to how that could have happened?",1.0,1.0,2.0,1.588531,1,1.5574222
+439,110,19,I don't know either I can't think of a possible way I remember the article said that he kind of stalked the guy (premeditated) I don't remember the exact wording though,2.0,1.0,2.0,2.221353,2,1.9980466
+440,110,20,It's heart-wrenching to think about how much pain they must be going through right now,4.0,2.0,4.0,2.8907428,2,2.8541527
+441,110,21,"I could not even imagine what it must be like to be them. That is just awful. I couldn't begin to comprehend, what it must be like.",3.0,2.0,4.0,3.7432287,2,3.4867287
+442,110,22,the article left me feeling deeply saddened and concerned about the safety of public spaces,3.0,2.0,2.0,2.679002,2,2.546967
+443,110,23,"I think it is sad, and I think the news should report good things that happen as much as they do report the bad things that happen",3.0,1.5,3.0,2.4208336,2,2.1304574
+444,110,24,unfrotunately good news is not very popular and new companies are in the business of getting views,2.0,1.5,2.0,1.756571,1,1.4828256
+445,110,25," yep. In the business of getting views and making dollars. If they would refocus their way of thinking and try to focus on positive things, I think there's a lot of people out there that would be more attracted to watching the news.",2.0,1.0,1.0,2.232892,2,1.966905
+446,110,26,"I agree, it could be worth a shot, I think there is a symbiotic relationship between media and the viewers, one could change the other",2.0,0.5,1.0,1.8969128,1,1.6919653
+447,110,27,"Yes, for sure. I totally agree with you. I think unfortunately negativities spreads quicker than good things and I don't know why that is",2.0,1.0,1.0,2.3443043,1,2.1422493
+448,110,28,Misery loves company I guess haha,2.0,2.0,1.0,2.5441601,1,2.1905427
+449,110,29,That’s spot on lol,2.0,1.0,1.0,2.1508508,1,1.7993623
+450,110,30,Hopefully one day the world will be a better place,2.0,0.0,1.0,2.3946998,0,2.0759397
+451,113,1,hello,1.0,1.0,1.0,0.8750807,1,0.7675879
+452,113,2,"Hey, how's it going today?",2.0,1.0,1.0,1.4899359,1,0.9403505
+453,113,3,going well. and yourself?,1.0,1.0,1.0,1.5418444,1,1.2393054
+454,113,4,"Good, did you read the article about the Southwest guy getting killed?",1.0,1.0,1.0,1.8251867,1,1.6028898
+455,113,5,Yeah my article was bout someone getting gunned down in oklahoma city,1.0,1.0,1.0,2.2214406,2,1.7951963
+456,113,6,"Exactly, My first thoughts were \I wonder why the guy killed him\"". The article didn't give a reason.""",1.0,1.0,1.0,1.7431877,1,1.6836362
+457,113,7,"Yeah i just assumed they had to of known each other or something. seems a bit random, but i guess it happens",2.0,1.0,2.0,2.0179574,1,1.9360269
+458,113,8,"At first, because it was at an airport, I assumed it was a crazy passenger, but they said it was premeditated.",2.0,1.0,2.0,2.3929923,2,2.0298235
+459,113,9,Yeah its crazy how people will just blow up and choose to go this level of violence ,1.0,2.0,2.0,3.060315,2,2.3100083
+460,113,10,"I don't get it either. Forget the fact that you are killing another person, but how can your life be so meaningless as well.",2.0,2.0,3.0,2.8625834,2,2.431407
+461,113,11,exactly.  Makes me wonder what happened that was so bad that drove him to do that.  I will never understand why if a person gets mad their first reaction is to shoot the other person,3.0,2.0,2.0,2.8015928,2,2.4263632
+462,113,12,"That's what I fixated on as well, I hate to admit it, but a large part of me was wondering if he deserved it in some way, not that anyone \deserves\"" to be murdered.""",2.0,2.0,2.0,3.2142942,2,2.8382957
+463,113,13,"I totally see your point. I feel the same way.  Just like you said, no one deserves to be murdered or shot.  Must of been worth it to the guy who murdered him i guess. ",2.0,2.0,2.0,2.8480165,2,2.3943431
+464,113,14,"It made me not so much sympathize with the guy who was killed, because I don't feel like I know the whole story. But, I greatly sympathized for his family. I can't imagine what they are going through.",3.0,2.0,1.0,2.979561,2,3.0680838
+465,113,15,that is defiantly the roughest part of  all of this.  how the family feels. especially if the person had kids or a significant other.  Shame that todays age is so quick to just shoot someone because they had an altercation. ,2.0,2.0,2.0,2.984816,2,2.8403487
+466,113,16,"Honestly, I can't even imagine it. I'd be so angry if I were them. Angry about a lot of things probably.",3.0,2.0,2.0,3.0941508,2,2.942522
+467,113,17,I know the feeling. i would be so angry about it. Not angry where i would want revenge etc. But i would want justice. ,2.0,2.0,2.0,3.4645011,2,3.1964824
+468,113,18,"Yep. I'd be mad at the killer, mad that people have normalized crazy behavior in recent years. ",2.0,2.0,2.0,2.8342078,2,2.414659
+469,113,19,indeed. it seems that more and more shootings are happening  I think its time we start checking the people buying the guns more ,3.0,2.0,2.0,2.0340111,1,1.7093318
+470,113,20,"I agree, I grew up hunting but I don't get gun culture at all. That culture frightens me. ",2.0,2.0,1.0,2.4539833,2,2.0993128
+471,113,21,"it a big issue for sure. i do not specifically think it is just the \guns\"" fault . People can do bad stuff without guns. But i do feel that people need to be trained and screened more before getting one""",2.0,2.0,1.0,2.5670445,2,2.1477468
+472,113,22,"Totally. I'm a gun owner. But, it's not part of my personality and too many people make guns and the implicit threat of violence a key part of their personality it seems.",1.0,2.0,1.0,2.4973054,2,2.1193612
+473,113,23,same here. i completely agree  100%. Society now has just become violent.. everyone is so quick to judge what your doing  or how your are doing it,2.0,2.0,1.0,2.6197274,2,2.130152
+474,113,24,It's scary. I can tell you that I'm much more guarded with how I interact with strangers explicitly because of stories like this. ,3.0,2.0,1.0,2.8744895,2,2.354261
+475,113,25,"same, its sad because i want to be friendly to people and i am, but i hate the fact that i always have to be on my guard now. ",3.0,2.0,1.0,2.6350513,2,2.3013484
+476,113,26,"I'm super polite, but always trying to end the interaction as quickly as possible. I'm not alone in that and I'm sure that my attitude does not help bring people closer together.",3.0,2.0,1.0,2.2983084,1,1.9724481
+477,113,27,Im the same way.. On a side note. I think this study has expired so i have no idea how im supposed to submit now for payment. Not sure if your timer expired as well ,2.0,1.0,1.0,1.9027469,1,1.7472094
+478,113,28,"I've still got timer left, I\ve messaged them before and I'm confident they'll make it right for you. """,1.0,1.0,1.0,2.3131595,1,2.2867079
+479,113,29,"Thanks , ill try messaging them as well after this. i get nervous when timers run out. I thought there would be enough time but i was working on others in my que before i got to this one. ",1.0,1.0,1.0,2.3361464,1,2.0745854
+480,113,30,"Totally understandable. I'm still thinking about this guy's family, how his son is in the NFL and how I bet they had a great relationship. It makes me want to call my dad.",3.0,2.0,2.0,2.6803916,2,2.4875855
+481,118,1,hi!,2.0,1.0,0.5,1.0468189,1,0.7955477
+482,118,2,Hello!,2.0,1.0,0.5,1.1071267,1,0.7833656
+483,118,3,The artticle wasn't surprising really. We have shootings everyday anymore,2.0,2.0,0.5,1.8014991,1,1.5735426
+484,118,4,Its horrible isn't it? I hate how numb to it I'm becoming.,3.0,2.0,1.0,3.739259,2,3.2400346
+485,118,5,It's a shame really! Numb is the way I would put it as well,3.0,2.0,1.0,2.373292,2,1.9479011
+486,118,6,I imagine a lot of us are feeling it at this point,2.0,2.0,1.0,2.1126285,2,2.024647
+487,118,7,I would say you are correct. It's bad when you get your mass shootings confused...lol,3.0,2.0,1.0,2.2574437,2,1.8480096
+488,118,8,Exactly! ,3.0,1.0,0.5,1.8099663,1,1.4311988
+489,118,9,I do feel horrible for the families,3.0,2.0,4.0,3.0651414,2,3.2318556
+490,118,10,"Oh absolutely, I can't imagine having someone you love die violently",3.0,2.0,4.0,3.2080028,2,3.0571074
+491,118,11,"I couldn't either, and we live with that fear every time we send our kids out the door to school",2.0,2.0,2.5,3.032792,2,2.6547246
+492,118,12,"Thats the scariest part, its so scary that we have to prepare kids for that",3.0,2.0,2.5,3.650242,2,3.158342
+493,118,13,"yeah it gives a whole new meaning to \the talk\""""",2.0,1.0,1.5,2.175481,1,1.9649757
+494,118,14,"ha, it really does...aside from the depressing article how's your day going?",2.0,1.0,2.5,2.5296786,2,1.8826137
+495,118,15,"Not bad so far, thanks for asking! How has your day been?",2.0,0.0,0.5,1.493964,1,1.0264422
+496,118,16,"Good, i'm planting some flowers in between jobs before it gets too hot",2.0,0.0,1.0,1.7761514,0,1.2766482
+497,118,17,That sounds fun! where are you from?,3.0,0.0,0.5,1.6280942,0,1.0067736
+498,118,18,"Northern WA, you?",1.0,1.0,0.5,1.0862695,1,0.82370687
+499,118,19,Ahh thats really cool! I'm from Kentucky...down south..lol,3.0,0.0,0.5,2.3056219,0,1.3638513
+500,118,20,Omg I'm from Louisville!,4.0,0.0,0.5,2.0172002,0,1.2032318
+501,118,21,WOW!!! How awesome is that! Im in Lexington!!!,5.0,0.0,0.5,2.4830575,0,1.4985961
+502,118,22,"I miss it every single day, haven't been back in about 25 years",3.0,1.0,0.5,2.1189945,2,1.7928572
+503,118,23,"Wow..Thats kinda sad because I look for ways to get out of here everyday. I want to move out west. I've been here for 40 years, it's time to move on for me",3.0,2.0,1.5,2.3398476,2,2.184682
+504,118,24,Well northern WA is beautiful but way too expensive for my tastes,2.0,0.0,0.5,1.8246593,1,1.3852382
+505,118,25,Yeah thats one thing that keeps me here. The cost of living isn't horrible,2.0,0.0,0.5,3.0107734,2,2.855363
+506,118,26,And the fried chicken...you will NEVER have good real fried chicken here lol,3.0,0.0,0.5,1.950834,1,1.4725735
+507,118,27,lol..I bet! We have recently had a few shootings in Louisville,3.0,1.0,0.5,1.8441861,1,1.3382686
+508,118,28,I saw that! He was from my high school!,4.0,1.0,0.5,2.54511,0,1.8827634
+509,118,29,wow...im sorry to hear that,3.0,2.0,1.5,2.821198,2,2.2930522
+510,118,30,"Yeah, way too small world in that case...I think this might be the end of that chat, it was great talking to you",2.0,0.0,1.0,1.8201866,1,1.6202829
+511,121,1,hi,1.0,1.0,0.0,0.8685006,1,0.8158697
+512,121,2,"Hey, how are you?",1.0,1.0,0.0,1.2553586,1,0.8531331
+513,121,3,"fine thank you, how about you?",1.0,1.0,0.0,1.2279191,1,0.95332336
+514,121,4,I'm good. What did you think of the article?,1.0,0.0,0.0,1.163835,1,0.8949808
+515,121,5,What was the article you read about? mine was about an airstrike in Yemen. ,1.0,1.0,1.0,1.9129755,1,1.6548622
+516,121,6,I had the same one about the Yemen airstrikes I believe.,1.0,1.0,1.0,1.9659994,2,1.83037
+517,121,7,"I think that the loss of life is not really necessary, there are other ways of solving  conflicts",2.0,2.0,3.5,2.3883884,2,2.4928367
+518,121,8,"True, they are in a tough situation out there. I wish there could be some sort of agreement to stop the loss of life.",3.0,2.0,3.5,2.4961295,2,2.52098
+519,121,9,what emotions did the article give you?,1.0,1.0,1.5,2.132684,1,2.0761645
+520,121,10,"It was sad for me to hear what's going on. I have a friend from Yemen, who luckily got out with his family a few years back. I know there are still so many people stuck there in this crisis though, its tough to think about. How about you?",3.0,2.0,3.5,2.3254087,2,2.3857574
+521,121,11,what can countries like ours do to help this waring countries?,1.0,1.0,3.5,1.8320787,1,1.6994364
+522,121,12,"I think we can help, at least I think that's better than doing nothing. Providing food, health supplies, and in some cases refuge. What do you think other countries should be doing to help, if anything? ",2.0,1.0,4.0,2.2022867,1,2.3808234
+523,121,13,i agree with you,1.0,1.0,3.0,1.6544833,1,1.5164549
+524,121,14,"Cool, do you think the US military should be involved in the conflicts?",1.0,1.0,2.5,1.241801,1,1.1665148
+525,121,15,Yes definitely but not the way it is currently ,2.0,1.0,3.0,1.8119621,1,1.6133618
+526,121,16,"Yeah, I think they should be involved when helping allies, or when protecting against threats to the US. Its just upsetting when civilians and innocent people end up getting killed as a result.",3.0,2.0,4.0,2.432394,2,2.2459528
+527,121,17,It is sad for innocents to get caught up in it,3.0,2.0,4.0,3.0589073,2,2.6852527
+528,121,18,Do you think the civil conflict there will ever be resolved? It seems like it has gone on for so long.,2.0,2.0,3.0,2.0344033,1,1.7933781
+529,121,19,"I am not sure about that, it is in human nature to always have conflicts ",2.0,2.0,2.5,2.2085118,2,1.9729369
+530,121,20,"Yeah, its sad to think about but I see no easy way for it to come to an end, especially after peace proposals have been repeatedly rejected.",3.0,2.0,3.0,2.464472,2,2.2148175
+531,121,21,true. if we could use robots to fight wars instead  of humans that would be nice,2.0,1.0,2.5,2.2312014,1,1.9717664
+532,121,22,Haha that would be nice. Robots or maybe agree to roll the dice to see who wins. Really any way to keep civilians out of it.,2.0,0.0,2.5,2.1986485,1,1.8958408
+533,121,23,yes no loss of life,2.0,0.0,2.5,2.5217423,2,2.6248846
+534,121,24,Do you think the US media has done enough to show what's going on in Yemen? I feel like I hardly hear anything about the conflict anymore.,1.0,1.0,3.0,1.856911,1,1.7690436
+535,121,25,"No, and the reason they have not is lack of access. The media is usually restricted from covering such events",1.0,1.0,2.0,2.0262802,2,1.7866485
+536,121,26,They are? I didn't know that. Is it like a security thing?,1.0,1.0,2.5,2.281327,1,1.9234095
+537,121,27,i agree with you,1.0,1.0,1.0,1.6544833,1,1.5164549
+538,121,28,"OK. Well I think we're coming to the end of our messages, its been good chatting with you!",2.0,0.0,0.0,1.7840109,0,1.2006844
+539,121,29,you too. until next time.,1.0,1.0,0.0,1.9705117,1,1.652951
+540,121,30,Farewell,1.0,1.0,0.0,0.92115945,1,0.7961216
+541,144,1,hello. Did you read the article and how did you feel about it what was your first reaction ,1.0,1.0,1.0,1.2244196,1,1.0264916
+542,144,2,Hello,1.0,1.0,1.0,0.8750808,1,0.76758796
+543,144,3,what was your first reaction of the article,1.0,1.0,1.0,1.6411784,1,1.4298277
+544,144,4,"made me feel very scared, how did you feel after you read the article",2.0,2.0,3.0,2.2586591,1,1.9506426
+545,144,5,I'm sorry that it made you feel scared. I sympathize with you. ,3.0,1.5,3.0,3.4504485,2,3.0517592
+546,144,6,How did it make you feel,1.0,1.0,2.0,1.8236701,1,1.8569477
+547,144,7,I felt bad for the people that live there. That's my first thought. I feel really bad for the people that live there and probably can't do anything about it to leave because it sounds like a real crappy place in my opinion,3.0,2.0,3.0,2.6234674,2,2.765001
+548,144,8,I don't really understand what the war is about do you?,2.0,1.5,2.0,1.9817629,1,1.7372121
+549,144,9,from my understanding there were rebels that were given an ultimatum to lay down their arms and if not they were going to be killed it also said the article was from CNN so I don't take too much stock and anything that comes from there ,2.0,1.5,3.0,2.4115787,2,2.0915358
+550,144,10,I read that to but that's not what the war is about.  I would like to find out. ,1.0,1.0,2.0,2.2324612,1,1.957802
+551,144,11,It doesn't say specifically but it mentions some things like when it referred to how Russia is there a major player with the president and government over there and how syria is trying to gain control over the city but I I don't understand completely myself honestly ,2.0,1.0,3.0,1.3618712,1,1.2730637
+552,144,12,Either way I cannot not imagine having to live like that how about you,2.0,2.0,2.0,2.3215337,2,2.2875023
+553,144,13,I could not imagine living like that. I am very thankful to be an American and living in the United States. There is absolutely no way I would ever want to live in Syria with that type of stuff going on that's for sure. The article also talked about Isis and some things about the Kurds they talked about a lot of the groups over there  ,3.0,2.0,3.0,2.2871528,2,2.387212
+554,144,14,It's really quite crazy to think this is going on in our world right now as we chat,2.0,1.5,2.0,2.2622747,2,1.8570834
+555,144,15,yes i agree. After I had sent that last message I started thinking maybe that is one of the reasons that it is going on over there  because it says something about Isis and having a strong hold over a city over there ,2.0,1.5,2.0,2.2267947,1,1.8604097
+556,144,16,are you a real person? who really read the article,2.0,1.0,1.0,1.9208539,1,1.5264221
+557,144,17,lol yes I am not a robot lol I had this conversation like this the other day when we had to prove we weren't robots lol I am a real person I have a worker ID number and everything how about you? And yes I read the article did you read the article? ,2.0,0.5,1.0,2.3278706,2,1.7235388
+558,144,18,Yes I ready the article usually these tasks tell you after the fact you were not talking with a real person.  Do you have anyone you know over there?,2.0,1.0,3.0,1.851615,1,1.7052038
+559,144,19,"i understand and i I always hate that at the end when you get told then that it was a robot or they were so much deception involved it tends to really irritate me lol but I have listed  major points of the article, and just because I don't fully understand it or understand why it happened doesn't mean I'm not real lol ",3.0,1.5,1.0,2.6243823,2,2.1093757
+560,144,20,Yes i know.  Do you know of anyone who lives over there?,1.0,1.0,2.0,1.2041878,1,1.2426056
+561,144,21,no I do not know anyone who lives over there. Do you? Do you have family or anything over there or friends? ,1.0,1.0,2.0,1.1113143,1,1.0990993
+562,144,22,"No I don't but there was that couple on 90 day fiancé.  She changed her religion and moved over there to marry, but they would never be able to move the US ",2.0,1.0,2.0,1.54186,1,1.4981121
+563,144,23,Oh my gosh are you serious? I have not watched that show but I know of that show ,2.0,0.5,2.0,1.9971249,2,1.7226682
+564,144,24,"Yes, it was very interesting.  Even to see eachother they had to meet in certain countries because he was syrian",2.0,0.5,2.0,1.8140135,1,1.7259326
+565,144,25,oh wow! Tell me more about that lol where did they go to meet and stuff? How did they meet like for the first time? lol,3.0,0.0,1.0,1.8239911,1,1.5218911
+566,144,26,If I remember right they went to Bali or something because syria is considered a terrorist country they are not allowed in many countries or something,0.0,0.0,3.0,1.56323,1,1.6672562
+567,144,27,yes Syria is considered a terrorist country. They are involved and a lot of terrorist groups come out of Syria. But this 90 day fiancé show sounds rather interesting lol what is it a whole season based on this I don't know why this just grabbed my attention but it sounds really interesting. Sounds complicated too lol,2.0,1.0,3.0,2.1758137,2,1.8105072
+568,144,28,"lol, yes. It's reality tv so they have a season on how they meet, then if they get serious the apply for a visa to get married and have 90 days to do it.  It fun and crazy all at the same time.  ",2.0,0.0,1.0,2.2388194,1,1.9732964
+569,144,29,lol that sounds pretty cool pretty interesting to watch lol I never watched it myself and I never really should have judged it as a reality show and not being interesting or some thing I guess because I never gave it a chance if that makes sense ,2.0,0.0,1.0,2.415675,1,1.7437323
+570,144,30,But reading that article made me recall that season and part of their dilema was where they would live.  She couldn't go to syria as they would kill her but he had to go to finish like his schooling or something.,2.0,2.0,2.0,2.1281717,1,2.3553286
+571,145,1,Hello,1.0,1.0,0.0,0.8750808,1,0.76758796
+572,145,2,hello,1.0,1.0,0.0,0.8750808,1,0.76758796
+573,145,3,what did you think of the article?,1.0,1.0,0.0,0.940771,1,0.80607647
+574,145,4,it made me sad,3.0,2.0,3.0,3.2214541,2,3.1535025
+575,145,5,It was quite distressing to read for me. I am not a fan of war,3.0,2.0,3.0,2.906914,2,2.604374
+576,145,6,i think Syria is being unfairly attacked,3.0,2.0,3.0,1.9243267,2,1.7457926
+577,145,7,I agree. Many innocent people are getting harmed.,3.0,2.0,3.0,2.8933895,2,2.4958704
+578,145,8,the food shortages were alarming,3.0,2.0,4.0,2.4312751,2,2.452775
+579,145,9,What did you think about the warning message sent to residents of Aleppo? How did it make you feel?,1.0,1.0,2.0,2.2765715,1,2.0665216
+580,145,10,"that would be a shocking warning message to receive, it made me feel alarmed and shocked",4.0,2.0,4.0,3.0950172,2,2.6752405
+581,145,11,Yes me too.,2.0,2.0,3.0,1.9475999,1,1.9619604
+582,145,12,i think the amount of people being killed in Syria is being censored,3.0,2.0,2.0,1.8721945,1,1.7163033
+583,145,13,"Probably to keep others from panicking. The article mentions the lack of aid and supplies in Aleppo. Do you think more can be done to help the civilians affected by the conflict? If so, what do you think should be done?",2.0,1.0,2.0,2.180473,1,2.3462195
+584,145,14,"Yes, the Turkish government and other entities such as the USA proxy armies should stop attacking Syria",3.0,2.0,2.0,1.7589765,1,1.7008667
+585,145,15,I agree. The USA seems to have their nose in everyone's business.,2.0,2.0,2.0,2.340826,2,1.8494415
+586,145,16,USA has a global war machine,3.0,2.0,1.0,1.8192279,1,1.4768914
+587,145,17,What do you think needs to happen for the conflict in Aleppo to come to an end and for the people there to begin to rebuild their lives?,2.0,1.0,2.0,1.8567705,1,1.9824038
+588,145,18,it would be good for Turkey and USA and others to stop funding the Free Syrian Army (FSA) and other entities that are attacking the innocent Syrian people,2.0,2.0,3.0,1.8734491,1,1.9082351
+589,145,19,I think so as well. Now when do we get this code. It has been more than 15 respones,2.0,1.0,1.0,1.9189014,1,1.8219056
+590,145,20,"we have to do 15 responses each, i think it is interesting that countries have these battles with each other but they all have a treaty together for Antarctica",2.0,1.0,1.0,1.4982405,1,1.3349847
+591,145,21,"Yes, Antarctica seems to have a lot of attention from people and yet we still don't know all about it. ",2.0,1.0,1.0,1.9554257,1,1.7994108
+592,145,22,i recently read about the Flat Earth Theory saying that Antarctica is an ice wall ,2.0,1.0,1.0,1.8304486,1,1.5247043
+593,145,23,I'll have to read into that. The article mentions that the Syrian government is accusing rebels of using civilians as human shields. What do you think about this accusation? Do you think it is a valid argument or an excuse to justify attacks on civilian areas?,2.0,1.0,1.0,2.0475922,1,1.912776
+594,145,24,"it is probably an excuse to justify attacks on civilian areas, i think Syria is telling the truth and the opposition is lying",2.0,2.0,2.0,1.9352179,1,1.8237276
+595,145,25,It also mentioned that the UN warned that eastern Aleppo was on the brink of starvation. Do you think that the international community has a responsibility to intervene in situations like this to prevent mass suffering?,2.0,1.0,2.0,1.8197293,1,1.9076312
+596,145,26,"the \international community\"" seems to want to starve Syria perhaps because Syria is not willing to use the same monetary system as other countries?""",3.0,1.0,1.0,1.6768408,1,1.6401666
+597,145,27,That is an interesting way to think about it. ,1.0,1.0,1.0,1.6513405,1,1.4964913
+598,145,28,the United Nations and other entities want globalism with a one-world currency and one-world religion for maximum control,3.0,2.0,2.0,1.9904773,1,1.703491
+599,145,29,So true. Sorry i'm running out of questions to ask,2.0,1.0,1.0,1.9225445,1,1.6349728
+600,145,30,what do you think is the proper future number for the global human population?,2.0,1.0,1.0,1.6587229,1,1.470263
+601,150,1,"Hello, hope you are well",2.0,0.0,0.0,1.7358654,0,1.521373
+602,150,2,Hello,1.0,1.0,0.0,0.8750808,1,0.76758796
+603,150,3,Honestly I found the article overall sad especially with them having to abandon the area in 24 hours,3.0,2.0,3.0,2.924718,2,2.9582052
+604,150,4,So did I. Very tragic,3.0,2.0,3.0,3.1080825,2,3.0733392
+605,150,5,If only something could be done,2.0,2.0,4.0,1.8030837,1,1.7710025
+606,150,6,I think the article was quite dated though,1.0,1.0,2.0,1.7210903,1,1.5303762
+607,150,7,Really? I was reading though the entire article and I was so focused that I could not find the date,2.0,1.0,3.0,2.259926,2,2.0314608
+608,150,8,"I seem to recall this happened a while back. Nevertheless, very sad to read",2.0,2.0,3.0,2.874713,2,2.6896675
+609,150,9,"Yep, especially the idea of them potentially starving too",2.0,2.0,4.0,2.0324838,2,2.1486123
+610,150,10,"Yes, it's hard to imagine going through that",2.0,2.0,4.0,2.8111055,2,2.8356926
+611,150,11,A lot of people hopefully never have to go though an experience like that,2.0,1.0,4.0,2.5380077,2,2.3975778
+612,150,12,It shows the risks of a fragmented society,2.0,2.0,3.0,2.2175806,2,1.9618614
+613,150,13,Definitely but then you stop and think. Why is Russia getting involved in this Syrian Civil war? ,3.0,1.0,2.0,1.8478527,1,1.740208
+614,150,14,And why is Turkey?,2.0,1.0,2.0,1.3299925,1,1.2428769
+615,150,15,"Exactly, what does Turkey have to do with this as well",3.0,1.0,2.0,1.6236284,1,1.6810255
+616,150,16,Great power rivalry I suppose,2.0,1.0,2.0,1.9119906,1,1.5399467
+617,150,17,"I suppose so, but overall nothing we can do as much we would like to",2.0,2.0,3.0,2.287145,1,2.0070713
+618,150,18,"I agree, I wish we could",2.0,1.0,4.0,2.092177,1,2.0023293
+619,150,19,It further shows you the tragedy of war and why people should not be rooting for it,3.0,2.0,4.0,2.329447,2,1.9887241
+620,150,20,What can we do though?,2.0,1.0,3.0,1.729538,1,1.4802359
+621,150,21,Probably tell our US government that first of all war should never be celebrated,3.0,1.0,3.0,2.1684852,1,1.8778155
+622,150,22,DO they listen?,3.0,2.0,3.0,1.3213542,1,1.3675158
+623,150,23,"Of course not, see what they are doing with Ukraine. There is no peace yet, and it just enriches the biggest weapon manufacturers.",3.0,2.0,3.0,1.9931712,1,1.7967187
+624,150,24,I agree,1.0,1.0,2.0,1.5261431,1,1.5405986
+625,150,25,"Even though I see the war between Russia and Ukraine, as something Russia started. Sending more weapons definitely should be off the table",3.0,1.0,2.0,1.7821975,1,1.6035534
+626,150,26,It's important to vote,2.0,1.0,2.0,1.9446886,1,1.8051772
+627,150,27,"It's, not like either party cares honestly",2.0,1.0,2.0,2.3086412,2,1.9695352
+628,150,28,"Likely true, sadly",2.0,2.0,2.0,1.8442414,1,1.7955539
+629,150,29,"Then again going back to the topic on hand, we would see if the war in Syria eventually ends",1.0,1.0,3.0,1.8585026,1,1.7718699
+630,150,30,I hope it does soon,2.0,1.0,4.0,2.2584972,0,1.9982836
+631,163,1,Hello,1.0,1.0,0.0,0.8750808,1,0.76758796
+632,163,2,Hi,1.0,1.0,0.0,0.8685006,1,0.8158697
+633,163,3,So what did you think about the article?,1.0,1.0,0.0,0.9939158,1,0.841213
+634,163,4,I thought it was rather depressing but honest. How about you?,2.0,2.0,3.0,2.48067,2,2.2290516
+635,163,5,Same. It's horrible what those people are going through. I wish something could be done.,3.0,2.0,4.0,3.626228,2,3.240195
+636,163,6,I feely you...when I read things like that I feel so helpless,2.0,2.0,4.0,2.8528564,2,2.501253
+637,163,7,"Yeah, no amount of human suffering is worth a war.",2.0,2.0,4.0,2.7064354,2,2.5366752
+638,163,8,"It all seems so futile, especially since the average family is the one who suffers the most, not the actual fighters.",2.0,2.0,4.0,2.6759887,2,2.629277
+639,163,9,"Yep, the citizens are the ones who are displaced and end up starving to death.",2.0,2.0,4.0,2.496355,2,2.445211
+640,163,10,I can't help but think what would happen to my grandmother and family if there was a war like this in the US,2.0,2.0,3.0,2.4398534,2,2.5666838
+641,163,11,I think about the same thing. It's one of the reasons I fear a global conflict.,2.0,2.0,3.0,2.0101714,2,1.8888875
+642,163,12,It could just as easily happen anywhere. It is scary and again makes me feel helpless.,2.0,2.0,3.0,3.419502,2,3.0036051
+643,163,13,Yep. I just wish all sides would just calm down and work things out diplomatically.,2.0,2.0,3.0,2.65444,1,2.3140728
+644,163,14,Yeah but the Good Ole Boys Club will never let that happen.,3.0,2.0,2.0,2.3667495,2,2.0562415
+645,163,15,"Nope, there is just too much money to be made from weapons and defense contracts.",2.0,2.0,2.0,2.1455712,2,1.8045028
+646,163,16,Exactly. The people at the root don't have to deal with the problems mentioned in the article,1.0,2.0,3.0,1.9808712,2,1.7851107
+647,163,17,"No, they don't deal with the problem, but sadly they're usually the ones creating it.",2.0,2.0,3.0,2.3706388,2,2.067749
+648,163,18,Yes that's exactly what I mean. They make decisions that create major trickle down life and death scenarios constantly,2.0,2.0,3.0,2.2480137,2,2.0572388
+649,163,19,"People need to start voting for better leaders. Assuming they're a democracy, anyway.",2.0,0.0,3.0,2.340388,2,1.9568567
+650,163,20,In an ideal world that would help.,1.0,0.0,3.0,2.087393,1,2.2503202
+651,163,21,Yep. I wish more places would embrace the democratic process -- then a lot of this could be prevented.,2.0,0.0,2.0,2.5039487,1,2.4452777
+652,163,22,Yes but even democratic countries go to war and are capable of causing this kind of suffering,2.0,2.0,3.0,2.6971374,2,2.3628929
+653,163,23,"Yeah, I guess democracy doesn't do a lot of good if the country is filled with warmongering voters.",2.0,2.0,3.0,2.1502886,1,1.8554738
+654,163,24,Well said. I thought the point about the hospitals not being able to handle the chronic health issues of the elderly was an interesting and sad point as well,2.0,2.0,4.0,2.2282052,2,2.1558287
+655,163,25,"Yeah, they are too busy tending to battlefield wounds. It's sad. The man who lives with his ten children and grandchildren really stuck with me. I can't imagine living in fear of an airstrike on your house at any given moment.",3.0,2.0,4.0,3.1276143,2,2.9596152
+656,163,26,Right? It would be so exhausting and frustrating to live like that.,2.0,2.0,4.0,2.9072978,2,2.8487442
+657,163,27,It makes me grateful for what I have and where I live.,2.0,0.0,2.0,2.470755,0,2.1585455
+658,163,28,No kidding. I don't think I'd be able to handle that kind of life.,3.0,0.0,3.0,3.0641382,2,2.9981704
+659,163,29,Nope. Those people are a lot stronger than I am.,2.0,1.0,3.0,2.4633508,2,2.1350086
+660,163,30,I found myself wondering how they get through the day.,2.0,2.0,3.0,2.233933,1,2.2390835
+661,164,1,"Hello, what did you think about the article?",1.0,1.0,0.0,0.92885053,1,0.787938
+662,164,2,it was dramatic,2.0,1.0,2.0,2.2819252,2,2.03157
+663,164,3,"It was, but also realistic. ",2.0,1.0,2.0,2.026787,2,1.8113141
+664,164,4,that war on Syria is sad and wrong,3.0,2.0,4.0,2.6718385,2,2.555788
+665,164,5,I agree. There are so many wars going on around the world. I also wonder how I can help.,3.0,0.0,3.0,2.2487845,1,2.156671
+666,164,6,The USA likes waging many wars,2.0,2.0,2.0,2.1311255,2,1.7810993
+667,164,7,"What do you think is the main cause of war. Land, money, or something else?",1.0,1.0,2.0,1.6080918,1,1.4338927
+668,164,8,land,1.0,1.0,2.0,1.0358855,1,0.94993126
+669,164,9,"It seems so counter productive to me, that they destroy the land they want.",2.0,2.0,2.0,2.585489,2,2.208136
+670,164,10,they destroy it so they can rebuild it for more profit and power,3.0,2.0,3.0,2.022545,2,1.6096272
+671,164,11,That makes sense. Have you ever experienced war first hand?,1.0,1.0,2.0,1.865108,1,1.6938084
+672,164,12,not on the frontlines,1.0,1.0,1.0,1.8492343,1,1.5823222
+673,164,13,I have not either. I guess that's a blessing.,2.0,0.0,2.0,2.2320495,1,1.7585186
+674,164,14,some might say there is a war on the USA with inflation and food factories on fire and train derailments,2.0,2.0,1.0,2.0274208,1,1.6666803
+675,164,15,True. It's like a silent war.,1.0,2.0,1.0,2.4010003,2,2.1375515
+676,164,16,i think the say groups waging war on Syria are also waging war on USA,1.0,2.0,2.0,1.6499746,1,1.5169443
+677,164,17,It's unfortunate to have these groups become so powerful and during these wars the most vulnerable population are left to fend for themselves. ,2.0,2.0,4.0,2.7960608,2,2.5302777
+678,164,18,i think there is a global population happening in Syria and also the USA,1.0,1.0,0.0,1.3872614,1,1.3588948
+679,164,19,A global population? Like a reduction?,1.0,1.0,1.0,1.4787197,1,1.4158533
+680,164,20,"yep, groups like the United Nations want to reduce the population from 8 billion to a lower number",2.0,2.0,1.0,1.9365926,2,1.8006026
+681,164,21,"Oh that's horrible, I guess that will address the baby boomer issue as that group is left alone.",3.0,2.0,2.0,2.5916197,2,2.4680521
+682,164,22,"people are having fewer kids, becoming more sterile, and also being trained to feel guilty about having kids",2.0,2.0,3.0,2.3885596,2,2.1773558
+683,164,23,"Absolutely, it feels like having a child is the irresponsible things to do Moms are shamed all of the time.",2.0,2.0,2.0,3.2060707,2,2.9708104
+684,164,24,"the person in the story had 10 children and grandchildren living with them, quite an ordeal in a war situation",2.0,2.0,4.0,2.5055208,2,2.654526
+685,164,25,"Yes there's a lot of mouths to feed and if a bomb hit's their home, the whole family would be lost.",3.0,2.0,4.0,2.5141594,2,2.5476327
+686,164,26,"yes, the food shortages must be very stressful",2.0,2.0,4.0,2.3125288,2,2.3729587
+687,164,27,And I wonder how their water supply is affected.,1.0,1.0,3.0,1.7727046,1,1.8841856
+688,164,28,"probably, they are trying to wear Syria down, but the people of Syria have held strong for many years",1.0,0.0,4.0,1.8594003,1,1.893563
+689,164,29,"They have been in war for a long time, but stand strong and united no matter what.",2.0,0.0,4.0,2.1985085,1,1.9190664
+690,164,30,Hopefully the people of the USA will also stay strong.,2.0,0.0,3.0,2.2911603,0,2.3092163
+691,170,1,Hello?,1.0,1.0,1.0,0.7981956,1,0.71028364
+692,170,2,Hi there!,1.0,1.0,1.0,1.2096785,1,0.97580236
+693,170,3,"Hi! So, how did you feel about the article?",1.0,1.0,1.0,1.1381164,1,0.896822
+694,170,4,It left me a bit depressed and sad. How about you?,2.0,2.0,3.0,2.3684354,2,2.1360474
+695,170,5,Me too... I can't imagine what it'd be like to have to spend the final years of your life in a country with so much war.,3.0,2.0,3.0,3.2846792,2,3.0923846
+696,170,6,"Right, I'm in the U.S. and some of this feel so removed even though it's really not.",2.0,2.0,3.0,2.0222187,2,1.7261335
+697,170,7,"Me too. It's hard to imagine, but at the same time, I know it's real for some people...",3.0,2.0,3.0,3.3838165,2,3.0771904
+698,170,8,"Definitely, it made me think about the circumstances under which I would even consider leaving my parents. Maybe if I had young kids or something, but I cannot get my head around it.",2.0,2.0,3.0,2.2805934,1,2.4658573
+699,170,9,Agreed. I don't think I could ever rest easily knowing that my parents lives are at risk like that.,2.0,2.0,3.0,2.9396818,2,2.9892397
+700,170,10,I guess the article also made me angry at how civilians get caught up in armed conflicts and are used by both/all sides.,3.0,2.0,4.0,2.4396763,2,2.1473632
+701,170,11,"I can agree with that. In war, it seems like civilians are seen simply as numbers, rather than human beings living real lives. It's hard to accept that some people are dehumanized in that way. We'd never accept such a thing happening in the U.S.",2.0,2.0,3.0,3.0348656,2,2.6092892
+702,170,12,"Right, I know we try to \minimize\"" collateral damage but that it is inevitable in these situation. Still hard to comprehend.""",2.0,2.0,3.0,2.0769858,2,1.8734092
+703,170,13,I wonder if there's another way. Does one really have to kill innocent people in order to make a point?,2.0,1.0,3.0,2.9995005,2,2.5252533
+704,170,14,Society would have to change a lot for us to get to that point but it does seem like there have to be better ways.,2.0,1.0,3.0,1.9174185,1,1.6973734
+705,170,15,"Yeah, it would take a lot of effort on both sides in order to get to that point, but I hope that some day, innocent people don't have to lose their lives over a fight they're not involved in...",2.0,1.0,3.0,2.6793168,2,2.4957209
+706,170,16,"In the article, I was curious that the one person remaining in Aleppo in the home he built had 10 children living with him. If he's that elderly, I thought they would be in their 40s or 50s which was odd.",1.0,1.0,3.0,2.0298996,1,2.0911386
+707,170,17,"Huh, I never thought about it like that. I suppose so. Wouldn't they have children of their own at that point?",2.0,1.0,2.0,2.0513382,1,2.128747
+708,170,18,"That's what I was thinking, but just curious about it. I need to do some more specific research about Syria itself and the conflict there too.",2.0,1.0,3.0,1.7161298,1,1.7529562
+709,170,19,"Yeah, hearing about it, it almost feels like they're living in an entirely different world. I wonder if it's standard for children to stay in the home for that long?",2.0,1.0,2.0,2.212049,1,2.321937
+710,170,20,"I suspect in other cultures. I lived in a developing country and it was so different from the U.S., multiple generations in one home or next to each other. Grandparents took care of little kids while parents worked. People took care of grandparents, etc., no retirement, government assistance.",2.0,1.0,3.0,1.8948481,1,2.05255
+711,170,21,"Oh, did you? That's interesting. It seems like other countries are more collectivist - more oriented toward taking care of the family than toward individual success.",2.0,0.0,2.0,2.1860886,1,2.2558546
+712,170,22,"Right, LOL....my parents have absolutely no desire to live with me or my sibling, so very different expectations.",3.0,0.0,2.0,2.4697244,2,2.4785051
+713,170,23,"Lol, I would imagine that my parents would be the same, yes. Then again, it sounds like you're speaking about a situation in which families are nearly forced to live together, since there's no retirement or anything. Grandparents would be forced to live with their kids and be taken care of by them, or they wouldn't be able to pay for food or shelter.",3.0,0.0,3.0,2.262964,2,2.3384838
+714,170,24,Right...although I imagine my parents would probably push me to leave with kids if the situation were like Aleppo even if I didn't want to do it.,2.0,1.0,2.0,2.1727848,2,2.240812
+715,170,25,"Yeah... I imagine it'd be hard to suddenly relocate after building a whole life in one place, but I think that the person from the story would find a lot of peace leaving and finding somewhere else to live.",2.0,1.0,3.0,2.366566,2,2.6091416
+716,170,26,I was thinking more in terms of frailty and health conditions but if the guy in the story could leave with the family....that size seems like they could manage assisting a couple of elderly folks.,2.0,1.0,2.0,2.151305,1,2.3255258
+717,170,27,"Yeah, I wonder what the children's opinions of the situation are, now that I'm thinking about it. I imagine at least one of them would have suggested leaving.",2.0,1.0,3.0,1.879039,1,1.9973439
+718,170,28,"Yes and you have the one kid who came back from Turkey and got stuck so must be incredibly difficult to leave. There's a sense of hopelessness with the options too, I imagine.",2.0,2.0,4.0,2.3017154,2,2.386796
+719,170,29,"Yeah... It seems that way. I wish I could show these people a better life somehow. It's so sad that people are forced to live their only life in the midst of a warzone. I know it's improbable, but I still wish I could.",2.0,2.0,4.0,2.8906772,2,2.8891792
+720,170,30,"Same, it makes me wonder how many people live in these active conflict zone and then others are in refugee camps, etc., and basically can't leave.",2.0,2.0,3.0,2.8005106,2,2.7606235
+721,171,1,Whatd you think of the article?,1.0,1.0,0.0,1.0717536,1,0.9134456
+722,171,2,I thought it was interesting but I was curious to know how the polar bears' populations have changed during the time discussed.,2.0,1.0,2.0,1.1886206,1,1.3355091
+723,171,3,"I agree, there wasn't much information given in that area",1.0,1.0,2.0,1.9027052,1,1.9186208
+724,171,4,I'm also curious to see how polar bears adapt to their changing conditions.  Life doesn't usually just roll over and die.  It adapts and finds a way.  I'm curious how their behavior is changing.,2.0,0.0,2.0,2.0753455,1,2.108817
+725,171,5,It is tough without the population data because they could be handling very well,2.0,1.0,1.0,1.757632,1,1.77617
+726,171,6,"Yes, I suppose.  I'm not sure that's likely, but it's possible. They're big, impressive creatures.  But even they're weak compared to nature.",2.0,2.0,2.0,2.3571591,1,2.3479736
+727,171,7,"I read more into the article being that of a expected time shift, something that happens every so often to the Earth",2.0,1.0,1.0,1.7072308,1,1.6383039
+728,171,8,"It's true that lots of things about earth change over time.  We tend to think of what we know of earth as how it's SUPPOSED to be.  But the reality is that polar bears have existed on earth for the blink of an eye compared to the time they haven't existed on earth, let alone in the universe.",2.0,2.0,1.0,1.7919445,1,1.7077878
+729,171,9,"I'm hoping that is what is causing the shifts, tough problem to solve on a global scale",1.0,2.0,2.0,1.7128177,1,1.561363
+730,171,10,"Yes, it's a very difficult problem to solve.  Does the thought of polar bears dying out make you sad, or does it make you happy because it means fewer seals are being eaten by polar bears?",1.0,2.0,2.0,2.7371304,2,2.8484693
+731,171,11,Definitely sad since that means that others can't experience also,3.0,2.0,3.0,2.717522,2,2.8745942
+732,171,12,Polar bears are a unique and impressive species.  Have you ever seen one in person?  I've seen them at the Denver Zoo.,3.0,0.0,3.0,1.5195215,1,1.3789611
+733,171,13,Yeah I've seen one at the Cincinnati Zoo. Couldn't imagine not having polar bears around,1.0,0.0,3.0,1.9901757,2,1.9761281
+734,171,14,Do you think they'll adapt to their changing conditions?,1.0,1.0,2.0,1.351901,1,1.4109514
+735,171,15,If the season is just shifting yes. Whats your viewpoint,1.0,0.0,2.0,1.5214057,1,1.4189249
+736,171,16,"I think their behavior will definitely change.  If the ice patterns, which dictate their hunting behavior, change, they will migrate or do something to just to adapt.  That might involve infringing on human territory more often.  And at that point who knows what happens to them.  Because while polar bears are impressive, humans won't put up with them invading their spaces for too long.",3.0,0.0,3.0,1.8734038,1,1.9818938
+737,171,17,What would you think is the best option to fix it?,1.0,1.0,2.0,1.4766707,1,1.4516711
+738,171,18,"It's way too complex a problem to suggest one simple solution.  I personally think that concerns for the polar bears should come way, way down on a list of priorities.  What do you think?",2.0,1.0,1.0,1.8351531,1,1.9523267
+739,171,19,Im not sure. Do you think this seasonal shift could snowball into a large problem?,2.0,1.0,2.0,1.7073133,1,1.7204587
+740,171,20,"A large problem for whom?  I think this could certainly spell trouble for polar bears.  And that will have some effect on seal populations, and possibly human settlements in and around the arctic. But the issue with the polar bears, per se, I don't think resuls in some snowball of destruction.",2.0,2.0,2.0,2.2893832,2,2.358196
+741,171,21,It is possible that polar bears population increase after a decrease,1.0,0.0,3.0,1.8406928,1,1.9919285
+742,171,22,"Sure, that's possible.  Lots of things are possible.  I think in the short term, however, the polar bear populations will likely be decreasing, and something about the situation will have to change for the populations to start increasing.",2.0,2.0,2.0,1.8932314,1,2.066728
+743,171,23,The shift is strange though. What were your first thoughts on the article,1.0,1.0,2.0,1.5203466,1,1.293098
+744,171,24,"I just found it interesting and I was curious about learning more about the effects the seasonal shifts are having.  Are more male polar bears eating more baby polar bears, for example, to make up for more difficult hunting conditions?  Because I believe male polar bears will cannibalize other bears.",2.0,2.0,1.0,1.8837132,1,1.9881806
+745,171,25,Its definitely possible. I think that they could just be eating less also.,1.0,1.0,3.0,2.213612,1,2.4378414
+746,171,26,"Yes, that's possible.  And I wonder how that changes their behavior, too.  For example, are they hibernating for shorter periods of time?  And how does all this affect pregnancies?  Lots of interesting questions.  It's like a labratory for studying how life adapts and changes in the face of changing environmental conditions.",1.0,1.0,2.0,2.1112266,1,2.2566495
+747,171,27,The behavior part is interesting. I imagine they may be more resourceful and skilled,1.0,0.0,3.0,1.9381404,1,2.1040468
+748,171,28,"Yes, you either adapt or die.  And species that have been around for thousands and thousands and thousands of years must be pretty adept at adapting or else they wouldn't still be here.",3.0,0.0,1.0,1.8881094,1,1.9559599
+749,171,29,Good point. They may need a new name if they adapt for warmer climates,2.0,0.0,3.0,1.4689267,1,1.5228691
+750,171,30,"Yes, that's a funny point!  And they may evolve to have a different fur color too if they start heading south, away from the arctic, to find more food.",2.0,0.0,1.0,1.8073466,1,1.6256167
+751,172,1,Hello,1.0,1.0,0.0,0.8750808,1,0.76758796
+752,172,2,"hellow, how are you?",1.0,1.0,0.0,1.2775521,1,0.89973354
+753,172,3,"Good, but that article was very sad.",2.0,2.0,4.0,2.3069897,2,2.1653862
+754,172,4,it was sad.,2.0,2.0,4.0,2.8407304,2,2.8428109
+755,172,5,"Every time I read an article like that one, I wonder why more isn't being done.  It's like people don't realize the urgency of the situation.",2.0,2.0,3.5,2.4734068,2,2.169681
+756,172,6,What should be done?,1.0,1.0,2.0,1.4275045,1,1.4176178
+757,172,7,"As an example, instead of having all electric cars by 2050, let's do by 2030.",1.0,1.0,3.0,2.032547,2,1.7691956
+758,172,8,is that feasible?,1.0,1.0,0.5,1.9380398,2,1.7362244
+759,172,9,Sure. If the government makes it a priority.,2.0,1.0,2.0,1.9328163,1,1.9399419
+760,172,10,yeah but it is so hard to get massive things like that done,1.0,2.0,0.5,2.6091874,2,2.3055942
+761,172,11,"I agree but we have no choice, in my opinion. What if climate change continues to get worse... then we have an even more massive thing to fix ... and it might be too late by then.",3.0,2.0,3.0,2.2443812,2,1.9607549
+762,172,12,"if it continues to get worse, we are all in it together",2.0,1.0,3.0,2.5000412,2,2.1865156
+763,172,13,That's true. I think there is too much focus on the economy and people are afraid to make changes because they're concerned that jobs will go away.  It's the exact opposite ... we'll create more jobs in the area of renewable energy.,2.0,1.0,3.0,2.2247758,2,2.072694
+764,172,14,people hate change,2.0,2.0,1.5,2.1958382,2,1.9160215
+765,172,15,They do.  I even hate change sometimes.  But change is how we got to this place and change is needed to get us out.,3.0,1.0,3.5,2.3807454,2,2.1265917
+766,172,16,"even people who are climate activists don't agree on what to do, that is what makes things so hard",2.0,2.0,2.0,2.4477756,2,2.133717
+767,172,17,"Well they might not agree on every detail, but they all agree that we're not doing enough and we're moving too slowly.",2.0,2.0,3.5,2.2493289,2,2.0206814
+768,172,18,"yea, it is hard to galvanize people though",2.0,2.0,1.5,1.7366076,1,1.6042966
+769,172,19,"I know.  I sometimes feel like people need to be directly affected by climate change, like having a wildfire in their area, to truly recognize what's happening.",1.0,2.0,3.5,2.335849,1,2.3553486
+770,172,20,did the article make you feel anxious?,1.0,1.0,2.0,2.3687062,2,2.055138
+771,172,21,I've read a lot of articles about climate change and I feel anxious and worried each time.,2.0,2.0,4.0,2.2776952,2,2.0431716
+772,172,22,"man that's not healthy, take a break, focus on the stuff you can change",2.0,2.0,3.0,2.03553,1,1.8949018
+773,172,23,"I feel I can change things. Even if it's a small amount.  If every one does sometime small, it will add up to big changes.",2.0,0.0,4.0,2.3455396,1,2.1638372
+774,172,24,"Yea, I don't know. I feel like abstaining from meat for climate reasons, or things like that, only makes the person feel better and has no effect at all.",2.0,2.0,2.0,2.0415263,1,2.1957397
+775,172,25,"I think that people should make the changes they feel they can make. If all they want to do is recycle, then that's it.  I believe it's really the small changes that will make a difference, if everyone does at least one small change.",2.0,0.0,3.5,2.0599768,1,2.0360548
+776,172,26,"ok, I feel like we can't do anything in response to what corporations do",3.0,2.0,3.0,2.2306333,2,1.8347893
+777,172,27,"I don't agree. If we don't like the choice that a corporation made, we should stop buying from them.",3.0,1.0,2.0,2.4834456,2,2.055136
+778,172,28,Its impossible to eliminate unethical companies from your consumption,2.0,2.0,1.5,2.7184484,2,2.1653838
+779,172,29,"I think it's challenging, but not impossible",3.0,0.0,2.5,2.4560957,2,2.1194527
+780,172,30,"hm, maybe you are right",1.0,0.0,1.0,1.5060935,1,1.382593
+781,173,1,"hello, did you read the article about the polar bears?",1.0,1.0,3.0,1.4056141,1,1.3184934
+782,173,2,Hello. Yes I did. What were the emotions that you took from it and what was your first reaction regarding it?,1.0,1.0,3.0,1.7743497,1,1.4917781
+783,173,3,"It was heartbreaking to hear that they are loosing the ability to survive. my first reaction was, If people need proof that global warming is happing, then read this article",3.0,2.0,3.0,2.610475,2,2.508841
+784,173,4," That's what I was going to ask you, what you thought the article was more geared towards. I couldn't tell if it was kind of both or was referring mostly to climate change or the polar bears",2.0,1.5,4.0,1.5077578,1,1.5706639
+785,173,5,"Thats what i took from it, was about how global warming is causing the polar bears across the artic to have shorter winters etc. with them loosing about 7 weeks each year or so for the past 35 years. its about a 25% loss over the 35 years of study they done",2.0,2.0,3.0,1.9338262,1,1.9711077
+786,173,6,yeah 25% as a whole bunch in my opinion. That would mean in 140 years or less but it'll be gone? Am I doing the math correctly?,2.5,1.5,3.0,2.1952193,2,1.9060798
+787,173,7,I think that sounds about right. Wither the data presented was inflated or not. hard to say. There is defiantly a loss there for sure. ,2.0,2.0,3.0,2.1624837,2,1.9800749
+788,173,8,that is tragic very sad where are the polar bears going to go if that happens?,2.5,2.0,3.0,2.8201861,2,2.8915186
+789,173,9,"thats what I was thinking. I know they are on the endangered species list.  Sad reality is, people are too selfish. so more then likely they will all die out. besides the ones in captivity and the ones who live in Alaska etc. ",2.5,2.0,3.0,2.5811834,2,2.638942
+790,173,10," Yes I was wondering if they were still on the endangered species list as well. I need to brush up on my geography that's for sure because I don't even know what is near there. I would have to Google it, it's been a long time ",1.5,1.5,3.0,1.6207135,1,1.6770792
+791,173,11,I think what they were referring to was Antarctica. I think there are some small towns and such there. Inuit's mostly probably (guessing)  but as far as countries and what not. i think Africa is close?  Same for me. i need to brush up on locations etc. i know the general area lol.,2.0,1.0,3.0,1.3906004,1,1.6668792
+792,173,12,Same here lol I know the area but it's been so long since I was in school but I guess I should be more aware of things like this. But surely since the study was done that they can come up with a plan or are working on one to help the polar bears there's something awful like that does happen or continues to happen I should say,2.0,2.0,3.0,2.3921916,2,2.295135
+793,173,13,yeah totally. More then likely they just want to leave them alone and just store data. but as it dwindles down to the last few they will start protecting them in reserves and such im guessing as well lol,2.0,1.5,3.0,2.0410848,2,2.002738
+794,173,14,I hope they wouldn't let them like starve to death or watch them die or something.. somebody's gotta do something about that.,2.5,2.0,3.0,2.5214164,2,2.351511
+795,173,15,maybe they will start air dropping food in or something in remote locations where the tribes of the polar bears are. Might just scare them away though,1.5,2.0,3.0,2.2005737,2,2.4055693
+796,173,16,Hey that's a really good idea airdropping food! Holy smokes that's like really incredible idea good  thinking!! I see your point too I doubt it might scare them away but hopefully it wouldn't because they would be hungry enough they would go to the food ,3.0,0.0,3.0,2.357512,1,2.3075125
+797,173,17,"another downside i was thinking was if they did air drop food in, im wondering if they would just become reliant on that and tend to stay in the area where it was dropped expecting more to come etc. Thus causing them to not hunt at all. (could be a longshot of a thought) lol ",3.0,2.0,3.0,2.0629053,1,2.2852585
+798,173,18,"(i typed \I see your point too about it might scare away\"" my auto correct changed my word to the word \""doubt\"" lol sorry) that's a another great point that you bring up about them becoming reliant and staying in the area. Hopefully the researchers come up with something innovative if they can come up with AI which is absolutely incredible in my opinion they should surely be able to come up with something to help this circumstance. """,2.0,0.0,4.0,1.6813433,1,1.6720203
+799,173,19,"Yeah i agree.  With their 35 years of data they have, they should be able to think of something. lol..... On a side note. i think we still have a few more rounds of this to go before we submit lol",2.0,0.0,4.0,2.1923993,1,1.7516005
+800,173,20,lol yes im at 9 right now i think... So if you were in charge of a research team and in the Arctic  dealing with this what would be the first thing that you do? ,2.0,1.0,4.0,1.5252311,1,1.2187409
+801,173,21,I think its 30 total for both of us combined. which means 9 more after this message if thats the case.  If i were in charge? Hard to say without knowing all of the other data that they have found. We were only presented with a small amount for purposes of the article. I would say try to observe first then interact where you can. Overall you want them to still be in their own environment and such,2.0,1.0,3.0,1.8487527,1,1.6691487
+802,173,22,yes its 30 combined 15 each... Yes we were presented with a small amount of info from the article I probably asked a crazy question lol I was just brainstorming on the idea you had because I thought it was really good about dropping in the food that was really good ,2.0,0.0,3.0,2.5533838,1,2.2244642
+803,173,23,"yeah i think that might be the best. dropping some sort of food via air drop. wither it be live game they can \hunt\"" still themselves. or some sort of food already cut up for them. some way that can still give them a sense of they are doing it on their own lol""",2.0,0.0,3.0,2.298894,1,2.4129953
+804,173,24,Live game that's pretty good right there too. That way they don't become human dependent and don't forget to learn how to hunt ,2.0,0.0,3.0,2.1691475,1,2.1430693
+805,173,25,"thats kind of the route that i think might be best or more \natural\"" i guess""",1.0,0.0,3.0,1.7005587,1,1.7953374
+806,173,26,yes I agree. What is that called when animals that are wild become dependent on humans it's not like being team but there's another name for it and I cannot think of what it's called it's right on the tip of my tongue ,2.0,1.0,3.0,2.316067,2,2.0805585
+807,173,27,i think i know what your talking about. lol now i cant think of the name either ,2.0,1.0,4.0,1.6234426,1,1.4171933
+808,173,28,lol that's gonna drive me crazy til i remember lol. It'll be one of those things that come to me at 3 o'clock in the morning when I'm not thinking about it lol ,3.0,0.0,3.0,2.8921406,1,2.2630496
+809,173,29,haha i know that feeling. might be something i have to end up googling. lol,2.0,0.0,3.0,2.412811,1,2.028369
+810,173,30,me too haha you sound just like me lol,2.0,0.0,3.0,2.1861231,0,1.5267154
+811,174,1,Hello,1.0,1.0,0.0,0.8750808,1,0.76758796
+812,174,2,Howdy!,3.0,0.0,0.0,1.5483809,0,1.0129411
+813,174,3,Were you aware of what was happening to the polar bear population prior to reading this?,1.0,1.0,1.0,1.4895878,1,1.5617397
+814,174,4,"I had known that ice was melting in the polar regions, but I hadn't really thought about how much it might impact polar bears and other animals. What about you?",1.0,1.0,2.0,1.885606,1,1.8646941
+815,174,5,"Same, I guess I hadn't focused too much on the polar bear population. It's sad to think this is happening.",2.0,2.0,3.0,2.4110618,2,2.4163635
+816,174,6,"Yeah, it is not fun to think that we might be causing issues for the polar bears. It was a bit of an eye opener to make me think about it like that.",2.0,2.0,3.0,2.3971908,2,2.295425
+817,174,7,Do you believe climate change is occurring and caused by humans?,1.0,1.0,2.0,1.2488652,1,1.0983453
+818,174,8,"Yeah, I definitely believe that climate change is happening and is primarily caused by humans. I think it's awful how much we are abusing the planet. That's just my feelings on it though.",3.0,2.0,4.0,2.41997,2,2.134562
+819,174,9,"I agree, hard to imagine how anyone wouldn't believe that with all of the research that has been done.",2.0,2.0,2.0,2.2379622,2,1.8797281
+820,174,10,"You would think, but lots of people still don't believe it! Maybe if they read the article about the polar bears or saw videos of it they might change their mind.",2.0,1.0,3.0,2.0024648,1,1.8769138
+821,174,11,What are some of the way you are trying to lessen your impact on global warming?,1.0,1.0,2.0,1.5269766,1,1.3710697
+822,174,12,"I try to minimize the electricity I use. I'll turn lights off when I'm not using them, I keep my home cool in winter, warmer in summer. Things like that.",2.0,1.0,2.0,1.803364,1,1.7723405
+823,174,13,I do those things as well. I recently bought a hybrid vehicle as I am not quite sold on full electric yet but I feel good about that.,2.0,0.0,2.0,2.1005285,0,1.6753857
+824,174,14,Nice! That's definitely a good and large step to take. Hybrids definitely are better for the environment than non-hybrids. The polar bears would thank you :),3.0,0.0,3.0,1.9886122,0,1.5100366
+825,174,15,"I agree, I am also hoping to get solar panels installed at some point",1.0,0.0,2.0,1.9890966,1,1.9418979
+826,174,16,"That would be good, and could also pay for themselves in the long run. They can make a big impact on reducing your electric bill.",2.0,0.0,2.0,1.8350115,0,1.7848458
+827,174,17,My electric bills were astronomical this last winter. I hope to offset a lot of that through solar. ,2.0,0.0,1.0,2.192113,1,1.8170176
+828,174,18,Smart thinking. Also I should have asked earlier to make sure we got the same article. Was yours about how ice was melting more and the data associated with the research? ,2.0,1.0,1.0,1.535914,1,1.4066356
+829,174,19,"Yes, that is corect, same article",1.0,1.0,1.0,1.5763476,1,1.4384961
+830,174,20,"Just checking lol. I was a bit surprised by some of the numbers in it such as how many weeks of \good ice\"" time the polar bears get now.""",2.0,1.0,3.0,2.0308397,1,1.5682423
+831,174,21,"I agree, that was surprising. Do you think we will be able to stop or reverse global warming?",2.0,1.0,2.0,2.2025986,1,1.8077896
+832,174,22,"I sure hope so, but I'm not sure. It seems like it might already be too late, but scientific advances are always surprising me. Also as it gets harder and harder to deny it, more money will get invested in research.",2.0,1.0,2.0,2.414616,1,2.0746036
+833,174,23,I hope so as well. I get a bit nervous for my kids and society's future when I think about the lasting impacts.,3.0,2.0,2.0,2.5856004,0,2.33326
+834,174,24,Hopefully the future will be better for your kids! Using those polar bears and other cute animals might be a good way to get people to pay more attention. It's hard to say no to cute animals.,3.0,0.0,3.0,2.3679454,1,2.310366
+835,174,25,"Great point, I hope that is a selling point for others! I just can't understand why some people chose to disregard the issue. Unfortunately the government may need to impost stricter guidelines for people like that.",3.0,2.0,3.0,2.705024,2,2.1547172
+836,174,26,Gonna be hard to impose stricter guidelines since people who don't believe in it are generally against more government interference. Fingers crossed though they will change their mind.,2.0,1.0,3.0,2.0272439,1,1.7363627
+837,174,27,That is unfortunately true. I wish everyone could work together for the greater good. That's the only way anyone will win.,2.0,1.0,3.0,2.774164,0,2.4944425
+838,174,28,Well I think our conversation is almost over. It's been nice chatting with you and I hope you have a good rest of your day!,3.0,0.0,0.0,1.8182228,0,1.1719341
+839,174,29,"You as well, thank you!",3.0,0.0,0.0,2.028819,0,1.3846778
+840,174,30,Bye!,3.0,0.0,0.0,1.1459684,1,0.77808845
+841,175,1,hi!,1.0,0.0,0.0,1.0468189,1,0.7955477
+842,175,2,Hello!,1.0,0.0,0.0,1.1071267,1,0.7833656
+843,175,3,how are you?,1.0,0.5,0.0,1.136645,1,0.8644624
+844,175,4,"not too bad, yourself?",1.0,1.0,0.0,1.3193221,1,1.1500361
+845,175,5,same just thinking about what to say about this article,1.0,1.0,0.0,1.7656093,1,1.6157767
+846,175,6,I can't believe we'll eventually have a world without polar bears,2.0,1.5,2.0,2.1533902,2,2.0554671
+847,175,7,I really don't either in our life time anyway,1.0,1.5,2.0,2.2531617,2,2.0271804
+848,175,8,"I read today that there are less than 30,000 left in the world",1.0,1.0,1.0,2.2695863,2,2.1039443
+849,175,9,wow! Thats unreal,3.0,1.5,2.0,3.1516788,2,2.4667652
+850,175,10,"yeah, whats your favorite bear?",1.0,1.0,0.0,0.9252268,1,0.79885936
+851,175,11,I would have to say a panda ...you?,1.0,1.0,0.0,1.369415,1,1.3328989
+852,175,12,"either panda or sun bear, theyre so small and derpy",2.0,1.0,0.0,1.2372885,1,1.3405881
+853,175,13,i dont think I'm familar with a sun bear,1.0,1.0,0.0,1.4641151,1,1.4288759
+854,175,14,Theyre basically the size of a large cub,1.0,1.0,0.0,2.0122907,1,1.9737446
+855,175,15,they sound really cool,2.0,0.0,0.0,1.9476607,0,1.3266366
+856,175,16,On topic of polar bears though they are scary! Thats one of those animals where if you spot it its already too late,3.0,1.5,1.0,2.389222,2,2.1742322
+857,175,17,yes i agree..I wish there were more that we could do to prevent this from happening,2.0,2.0,3.0,2.391172,1,2.3565173
+858,175,18,Same! I don't really know where to begin though aside from doing ym part to slow down the climate,2.0,1.0,3.0,1.9341626,0,1.5582433
+859,175,19,Right. I wouldn't know where to start really,2.0,1.0,2.0,1.6386306,1,1.5054086
+860,175,20,What do you call a bear with no teeth?,1.0,1.0,0.0,1.2634044,1,1.2450442
+861,175,21,a gummy bear!?,2.0,1.0,0.0,1.735424,1,1.4201293
+862,175,22,Yes!,3.0,0.0,0.0,1.4194225,1,1.1112232
+863,175,23,Haha! That was a good one!,3.0,0.0,0.0,2.2935972,0,1.5187776
+864,175,24,I wish I could take credit for it haha,2.0,0.5,0.0,2.4616086,1,1.9018286
+865,175,25,you can on my part,1.0,0.5,0.0,1.7548354,1,1.668865
+866,175,26,What do you call a wet bear?,1.0,1.0,0.0,1.0829308,1,1.1293173
+867,175,27,hmmm.... what?,1.0,1.0,0.0,1.7690127,1,1.4334338
+868,175,28,A drizzly bear!,2.0,0.5,0.0,1.5678089,1,1.255173
+869,175,29,hahahaha... Awesome..Love it!,3.0,0.0,0.0,2.8183947,0,1.6943238
+870,175,30,I think we're about done?,1.0,1.0,0.0,1.232018,1,1.0673777
+871,179,1,"I was disappointed with what I read, but not really surprised by it.",3.0,2.0,2.0,2.670429,2,2.239976
+872,179,2,Hello how are doing today?,1.0,1.0,0.0,1.3939352,1,0.92715573
+873,179,3,I'm doing well and yourself?,2.0,1.0,0.0,1.718945,0,1.2850071
+874,179,4,I am well too. ,1.0,1.0,0.0,2.001657,0,1.8456326
+875,179,5,"So in regards to the article, I was highly disappointed with what is happening, but hardly surprised by it",3.0,2.0,3.0,2.5341287,2,2.1348262
+876,179,6,What did you read about? mine was about the arctic ice melting earlier this year and polar bears losing their homes ,1.0,1.0,1.0,2.3235068,2,1.8307621
+877,179,7,"Yeah that is the one that I read.  I'm just disappointed that we, as humans, have let it get so bad, to clarify my disappointment",3.0,2.0,4.0,2.9903939,2,2.6472769
+878,179,8,yeah me too I think that we are solely responsible ,2.0,2.0,3.0,1.9610429,1,1.8327022
+879,179,9,"I agree.  It seems more natural disasters and more species going extinct and it's so incredibly sad that it seems those in power, who could actually help, don't care",4.0,2.0,3.0,2.7212982,2,2.642232
+880,179,10,especially the big companies that are polluting the environment ,3.0,2.0,3.0,1.9624057,1,1.9910631
+881,179,11,"Yeah :(  they have far too much power in politics since they can buy the politicians.  The bigger companies make billions and get angry if they have to pay more in taxes so instead of making, say 5 billion, they may only make 4.8b",3.0,2.0,2.0,2.7914562,2,2.2635071
+882,179,12,it is so unfair for everyone affected especially the animals,3.0,2.0,4.0,2.8583438,2,2.704668
+883,179,13,"Exactly, the ones who can't speak or defend themselves",3.0,2.0,4.0,2.2686784,2,2.056138
+884,179,14,"apart from sadness, what other emotions did you get while reading the article?",1.0,1.0,1.0,2.3061945,1,2.2755752
+885,179,15,Definitely anger as well as anxiety.  Melting icecaps raise ocean levels which can affect coastal areas,3.0,2.0,2.0,2.0739186,2,2.0838656
+886,179,16,same here. I only wish there was something I could do to help,2.0,2.0,3.0,2.692232,1,2.8336267
+887,179,17,"Same here, I also fear for what my kids will be left with in the future.  How about you?",3.0,2.0,2.0,3.0260255,2,2.5110633
+888,179,18,Yes I worry about the world the future generations are going to live in ,3.0,2.0,2.0,2.4151676,2,2.0613518
+889,179,19,Yeah.  I do hope that we can change things both for the polar bears and the world in general before it is too late for anyone,3.0,0.0,3.0,2.446669,2,2.4254727
+890,179,20,me too. change needs to happen ,2.0,1.0,3.0,2.6887977,2,2.5127745
+891,179,21,"I'm sure there are little things we can do to help, but as we said earlier, it's those bigger polluters that need to do the bulk of the work",2.0,2.0,2.0,1.9541566,1,1.857359
+892,179,22,can you give me an example of things one can do?,1.0,1.0,1.0,1.7785547,1,1.7449219
+893,179,23,"I would say we can put pressure on the worst offenders.  Boycotts and (peaceful) protests.  Call them out and hope that they take it to heart.  As an individual we can recycle more, walk/bike or car share to cut carbon emissions",3.0,0.0,3.0,2.4081657,2,2.2814248
+894,179,24,that could work. ,2.0,0.0,2.0,1.5910156,1,1.6825175
+895,179,25,I think it would have to take a concerted effort by many people in order for it to start making a difference,2.0,0.0,2.0,2.1054225,1,2.247662
+896,179,26,thats true. what was your first reaction while reading the article?,2.0,1.0,1.0,1.7070584,1,1.4691807
+897,179,27,"Definitely anger, but sadness was right up there with it.  What were your feelings?",2.0,2.0,3.0,2.322366,2,2.2791712
+898,179,28,I wasn't surprised but I felt pity for the animals ,2.0,2.0,3.0,2.5654852,2,2.6177802
+899,179,29,Exactly.  Is it sad that we're not even surprised by this?  :(,3.0,2.0,2.0,2.8503633,2,2.5413156
+900,179,30,yeah I have been following the climate change quite closely  ,3.0,1.0,2.0,1.5193124,1,1.3864467
+901,183,1,"hello, my first reaction to the article was to feel angry",3.0,2.0,2.0,2.027278,1,1.782136
+902,183,2,yeah me too,2.0,2.0,2.0,1.8985534,1,1.9603869
+903,183,3,I don't like hearing about abuse happening to children,3.0,2.0,3.0,2.7843306,2,2.5207744
+904,183,4,he had a rough life,2.0,2.0,2.0,2.5502236,2,2.5083246
+905,183,5,"yeah, and nobody really protected him",2.0,2.0,2.0,2.3759654,2,2.1003947
+906,183,6,why those assholes adopted him i don't know,3.0,2.0,3.0,2.341531,2,2.0733361
+907,183,7,or how an adoption agency let people like that adopt him,2.0,2.0,2.0,2.4171329,2,2.387617
+908,183,8,yes exactly,2.0,1.0,2.0,1.5531967,1,1.437753
+909,183,9,seems like there are problems with adoption in this country because it happened twice,2.0,2.0,2.0,2.038161,2,1.8576491
+910,183,10,i don't get how he still wasn't a citizen,2.0,1.0,2.0,2.1230862,2,2.0588632
+911,183,11,"adoption should be to provide a better life, not abuse",3.0,2.0,2.0,2.5668678,2,2.6359978
+912,183,12,i wonder what happened to the parents,1.0,2.0,2.0,2.043489,1,2.0905812
+913,183,13,i wondered too. I didn't know that being adopted by us citizens didn't automatically make you a citizen,2.0,2.0,2.0,1.860532,1,1.8845656
+914,183,14,that makes no sense,2.0,2.0,2.0,1.5616772,1,1.460145
+915,183,15,"I agree, it should be to prevent from happening to anyone else",2.0,2.0,3.0,2.1289356,1,2.0984426
+916,183,16,and what about his kids,2.0,1.0,3.0,1.9605594,1,1.6766603
+917,183,17,"exactly, poor kids will lose their dad",3.0,2.0,4.0,2.6639516,2,2.7063482
+918,183,18,are they citizens?,1.0,1.0,2.0,1.1513205,1,1.134983
+919,183,19,"oh true, that makes no sense either if not since they were born here",2.0,1.0,2.0,1.5924299,1,1.6947231
+920,183,20,i just hope they fix it and get him back,2.0,0.0,3.0,2.4158049,1,2.2400713
+921,183,21,"me too, hopefully someone is fighting for him",2.0,0.0,3.0,2.8413694,1,2.4421506
+922,183,22,hopefully the articles brings awareness,2.0,0.0,3.0,1.8858533,0,1.92478
+923,183,23,maybe a movement will be started to pass some new adoption laws,2.0,0.0,3.0,2.1550362,1,2.1258476
+924,183,24,yes and politicians that care,2.0,0.0,1.0,2.2231233,2,2.009354
+925,183,25,yes if we could find some that would be nice,2.0,0.0,1.0,1.873986,0,1.8403938
+926,183,26,"i wonder if south korea would consider him a \citizen\""""",2.0,1.0,2.0,1.662272,1,1.6680107
+927,183,27,"maybe because he was born there, but I don't know much about their government or laws",2.0,1.0,2.0,1.558861,1,1.5787859
+928,183,28,hopefully we get updates about him,1.0,0.0,3.0,1.7307944,0,1.5194569
+929,183,29,"and his wife, that's a lot for a mom to deal with",2.0,1.0,2.0,3.0200713,2,2.8467574
+930,183,30,yeah she will need help,2.0,1.0,2.0,2.2219737,1,2.3955333
+931,184,1,"Hi, are you there?",1.0,1.0,1.0,0.9227465,1,0.86626834
+932,184,2,"Yes, what did you think of the article?",1.0,1.0,1.0,0.90652007,1,0.8171829
+933,184,3,It's bad and unfair,2.0,2.0,3.0,2.4689398,2,1.9848548
+934,184,4,I agree. Sometimes I think we do things like that because we want to feel that we are better than others.,1.5,2.0,3.0,2.4804153,1,2.1858754
+935,184,5,"It was most perplexing that they didn't even sign the boy up for his citizenship, as if they already knew that they wanted to mistreat him.",2.5,2.0,2.0,2.7746947,2,2.6337717
+936,184,6,"Yes, I felt that that was a part of the abuse. I have a problem dealing with the abuse of children.  I have seen the results.",1.5,2.0,4.0,2.6248322,2,2.6060739
+937,184,7,"Yeah, a lot of people don't like it. I think it's heinous because kids can't protect themselves and they need others to do so. And also, that the most vulnerable part of a person's life.",2.5,2.0,2.0,3.2502306,2,2.6130552
+938,184,8,"Yeah, and when the system failed him, he got into trouble. He gets turned around, and the system attacks him again. We've lost what little compassion we had.",2.0,2.0,4.0,3.074241,2,2.6118011
+939,184,9,I got a lot of respect for the adopted parents that treat their kids well.,2.0,0.0,2.0,2.502807,0,2.2027903
+940,184,10,Yes. One of my nephews has 2 adopted and two of their own. They would correct me at once and tell me they have 4 kids.,2.0,1.0,2.0,2.7189915,2,2.379822
+941,184,11,"Haha, wow! That's good to hear that they treat them all well :D",3.0,0.0,1.0,2.9586952,0,2.0760283
+942,184,12,"Yeah, he's a good kid that came from a tough upbringing. I've always been very proud of him and his wife.",2.5,0.0,1.0,2.8546677,0,2.4079072
+943,184,13,"They are people to be proud of :D I hope that the man in the story can come back over and be with his family - if the story is real. Sometimes they use fake stories, but it still is something to get mad at -_-",2.5,0.0,3.0,2.7730095,1,2.2099428
+944,184,14,"Yeah, I live in Texas and have seen similar things happen quite a bit. It seems to me that if a person has spent their entire life here and acted like a citizen, then they should be treated like one. ",2.0,1.0,4.0,2.1181839,1,2.10681
+945,184,15,That's what I think. I thought people get their citizenship after 15 years of staying here anyway.,1.0,1.0,3.0,1.8940036,1,2.1700397
+946,184,16,"No, apparently not. We seem to just be looking for reasons to deport people, even using the smallest technicalities. We have deported people who served in the military when it turned out that they weren't really citizens.",2.0,2.0,3.0,2.4731255,2,2.2587354
+947,184,17,What?! That is crazy!,3.0,2.0,2.0,3.5145009,2,2.6541116
+948,184,18,"Sure, dreamers who have been here nearly their entire lives who wanted to serve their country. Sad and ridiculous.",2.5,2.0,2.0,2.9407246,2,2.716643
+949,184,19,They shouldn't have been deported. I'm a little appalled at that. How can someone fight for the country just to be deported later? America needs to make some changes.,3.0,2.0,3.0,2.8475616,2,2.5384068
+950,184,20,The problem is that the changes we have made are designed to hurt people. When I read about the man in the article all I saw was us punishing someone who was trying to do the right thing. The thing is that most of the people around here are all for that sort of behavior.,2.0,2.0,3.0,2.7018344,2,2.2032797
+951,184,21,I wouldn't be surprised. Many people in America are oppressors. Even some of the oppressed go on to oppress people who are more vulnerable than them. I feel sad for them going through such things.,2.5,2.0,3.0,2.6568053,2,2.394612
+952,184,22,"Yeah, it seems like a lot of us need someone to hate.",2.0,2.0,2.0,2.3521054,2,2.1049623
+953,184,23,That type of personality is so lazy - taking the easy way out. The regrets later are going to hit them like a ton of bricks.,2.5,2.0,2.0,2.9158657,2,2.823193
+954,184,24,"Maybe, but a lot of them are so convinced that they are right that I doubt their conscious will ever bother them. ",2.0,1.0,2.0,2.7934515,2,2.7302728
+955,184,25,"Aww, I don't like the thought of that. I was about to say someone must have told them they are doing wrong, but then they surround themselves with people who tell them that they are doing right. It's disheartening. I wonder what makes some people aware and while others are not.",3.0,2.0,2.0,2.914818,2,2.543448
+956,184,26,"I think that people get in echo chambers with others who feel the same way they do, and they convince each other that they are right and the rest of the world is wrong. It would be funny if it didn't hurt others so much..",2.0,2.0,2.0,2.8678472,2,2.3932805
+957,184,27,"Oh, yeah. And if no physical person is there, they can go online where there is bound to be some people who agrees with them.",2.0,1.0,2.0,2.1548395,1,2.2143307
+958,184,28,"YouTube too. One of my friends got me to look at a video about 9/11. For the next month everything I got in my feed was a conspiracy theory, one crazier than the other. No wonder people are scared.",2.0,2.0,1.0,3.0954654,2,2.2675366
+959,184,29,"Oh, those conspiracy theories are very weird! On was about the moon landing being faked. I like astronomy and they had my curiosity piqued.",2.0,1.0,1.0,2.4660594,2,1.7485795
+960,184,30,"The scary thing is that the more facts you give them that show they are wrong, the more convinced they are that they are right.",2.5,1.0,1.0,2.9026887,2,2.20776
+961,190,1,Hi,1.0,1.0,1.0,0.8685006,1,0.8158697
+962,190,2,Hey,1.0,1.0,1.0,1.0751398,1,0.83573437
+963,190,3,How are you doing?,1.0,1.0,1.0,1.1109425,1,0.76363975
+964,190,4,I'm pretty good. How about you?,1.5,0.0,1.0,1.3975973,1,0.95314837
+965,190,5,"Not bad.   So, what did you think about the article on Adam Crapser?   I feel very sympathetic for him as I don't believe that he is responsible for his situation.",1.5,2.0,3.0,1.9177384,1,1.4814165
+966,190,6,It's horrible. I feel like an exception should be made in his case. It wasn't his fault.,2.5,2.0,4.0,2.7734869,2,2.4898272
+967,190,7,There were obvious mistakes made during the adoption process when he was a child.  He should not be punished for those mistakes.,2.0,2.0,3.0,3.240811,2,2.9283252
+968,190,8,"No, he shouldn't. And to make matters worse, his family is going to suffer.",2.5,2.0,3.0,2.683919,2,2.5534682
+969,190,9,I agree.   Deporting him rips his family apart and causes everyone to suffer.,2.0,2.0,3.0,2.760683,2,2.4946115
+970,190,10,"And all for what was essentially a paperwork error. Given the life he lived up to that point with the abuse he suffered, it's hard to not feel sorry for him.",2.0,2.0,4.0,2.9058597,2,2.881565
+971,190,11,This case was a few years ago.  Do you know what eventually transpired?,1.5,1.0,0.0,1.7732329,1,1.5578907
+972,190,12,"Supposedly there was a bill that was being debated in Congress. I don't know if it passed, but I think it might've been too late for Crapser anyway. ",1.5,2.0,2.0,2.266364,2,1.9379478
+973,190,13,Yeah.  Looks that way.  I think that he was eventually deported.   Too bad the case didn't get more media attention at the time it was happening.,2.0,2.0,2.0,2.257002,2,2.1393552
+974,190,14,"Yeah, it might've caused congress to solve the immigration problem once and for all. A missed opportunity and now more will suffer.",2.0,2.0,2.0,2.100488,1,2.2092009
+975,190,15,It's even worse because his kids are really young and at the age where they need a father presence in their lives.,2.5,2.0,3.0,3.185212,2,2.990942
+976,190,16,"Yeah, it just wasn't worth causing kids to grow up in a broken home to deport this man.",2.5,2.0,3.0,2.8414505,2,2.787552
+978,190,18,It's probably still broken. I hope no other family has to go through this. Just no excuse for it. Hopefully Crapser found a way to get back to his family.,2.0,2.0,3.0,2.6274283,2,2.4619026
+979,190,19,"I just feel sad and angry that we, as a nation, allowed his situation to get to that point.",2.0,2.0,3.0,2.5282416,2,2.3267498
+980,190,20,"People don't pay too much attention to issues, which is the problem. If it doesn't affect them personally, they don't care.",2.5,2.0,2.0,2.4489853,2,2.2334833
+981,190,21,I just wish that a politician in his state had championed his situation and tried to prevent the deportation.,2.0,1.0,2.0,2.4886942,1,2.5994337
+982,190,22,"Yeah, they probably could've gotten a lot of advertising and fundraising out of it. It would've been a win-win.",2.0,1.0,2.0,2.2270772,1,2.1603413
+983,190,23,"Also, most of this transpired during the Obama administration.   The Trump administration became even more hardline on deportations.",1.5,1.0,1.0,2.3703148,2,2.3157244
+984,190,24,"I think some deportations should have exemptions made for them. A lot shouldn't be eligible like unauthorized border-crossings, but this was a unique situation.",1.5,1.0,2.0,1.9954743,1,2.138266
+985,190,25,The other sad fact is that Adam was deported to South Korea but he has no idea how to speak Korean.,2.0,2.0,3.0,2.36303,2,2.1914048
+986,190,26,That's horrible. It must be scary being deported to a country you've never known and you can't even speak the language there.,2.0,2.0,4.0,3.0552998,2,2.906481
+987,190,27,Yep.   It's like being thrust into an environment that you have had no exposure to.   The whole cycle of trauma now passes down to another generation.,2.5,2.0,3.0,3.0431612,2,2.8906417
+988,190,28,Nobody should ever have to go through what Crapser did. I hope he's doing better these days.,2.0,1.0,3.0,2.6881042,1,2.3010306
+989,190,29,I hope that someone read about his case and was willing to support him and his family financially or to even relocate them to a third country.   Canada has always seemed very open to refugees?,2.5,0.0,3.0,1.7476301,1,1.9787805
+990,190,30,"Yeah, that sounds like a good idea. Maybe someone could start a crowdfund for him.",2.0,0.0,0.0,2.2488291,0,2.0825286
