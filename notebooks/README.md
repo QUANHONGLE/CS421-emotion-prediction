@@ -53,6 +53,62 @@ SBERT was used for final test predictions as it outperformed GloVe across all th
 Predictions saved to `predictions_ann.csv` with columns: `id, Emotion, EmotionalPolarity, Empathy`
 
 ---
+# Q2: Fine-tuning an RNN-based Model
+
+## Code File
+`Q2_Fine_Tuning_RNN_based_Model.ipynb`
+
+## How to Run
+1. Open `Q2_Fine_Tuning_RNN_based_Model.ipynb` in Google Colab
+2. Run all cells in order from top to bottom (Runtime -> Run all)
+3. The predictions will be saved as `predictions_rnn.csv` after running
+
+## Implementation Details
+
+### Embeddings
+A tokenizer-based apporach was used for the RNN where the data is numerized and padding to a fixed length 
+
+### Model Architecture
+A recurrent nueral network (RNN) was built in PyTorch with the following structuere:
+Single-layer LTSM 
+Embedding layer converts the numerized padded tokens into dense vectors
+Dropout rate of 0.3 applied to the final state before classification 
+Three task-specific output heads on the shared hidden state:
+Emotion (regression, outputs 1 value)
+Emotional Polarity (classification, outputs 4 class scores) 
+Empathy (regression, outputs 1 value) 
+
+### Loss Functions
+- MSE Loss for Emotion and Empathy (regression tasks)
+- Cross Entropy Loss for Emotional Polarity (classification task)
+
+### Training
+- Optimizer: Adam (learning rate = 0.001)
+- Batch size: 32
+- Epochs: 10
+- Trained on GPU (Google Colab T4)
+
+### Preprocessing
+Data loaded from CSV files (train, dev, test)
+Train text and dev text data was stripped of punctuation and placed into lowercase and returned as a list
+Cleaned train text and dev text data was tokenized
+Tokenized train text data was used to build a dictionary of vocabulary with an index, this included <PAD> and <UNK> symbols as well 
+Train, dev, and test data was normalized using the pre-built vocabulary dictionary 
+For loop used to get the length of each sentence in the train text to be used for padding
+Using np.percentile determined that the 95% would be the appropriate length for the padding, length resulted in 45 
+Function created to iterate through each data set and ensure that each sentence was of length 45 
+
+## Normalized text result 
+[[216, 192, 250, 119, 5084, 692, 167, 433, 52, 38, 124, 21, 101, 115, 2, 13, 5, 45, 226, 6, 7, 8],… ] 
+
+
+## Model Choice for Final Predictions
+LSTM model was used for the final predictions since it is better at handling long term dependencies. This is vital for detecting emotions where context plays a significant role to the meaning. 
+
+## Output
+Predictions saved to `predictions_rnn.csv` with columns: `id, Emotion, EmotionalPolarity, and Empathy`
+
+---
 
 # Q3: Fine-tuning a Transformer-based Model
 
