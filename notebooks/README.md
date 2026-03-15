@@ -177,4 +177,10 @@ Predictions saved to `predictions_bert.csv` with columns: `id, Emotion, Emotiona
 ## Implementation
 -  Utilzing pandas conversations were grouped by conversation_id and counts were taken
 -  Afterwards, conversations with 10 or more utterances were filtered out and the first 5 conversational id's were extracted
--  Conversation id's and texts were extracted to be uploaded to a LLM for processing
+-  Conversation id's and texts were extracted into CSV file to be uploaded to a LLM for processing
+-  Analysis was then saved into LLM_output.txt file 
+
+## Model Selection 
+- Claude (claude-sonnet-4-20250514) accessed via the Anthropic API since it was able to apply different prompting techniques (zero-shot, few-shot, and chain-of-thought) for the analysis
+- Analysis displayed and emotion intensity score per speaker, empathy score for the overall conversation, sentiment polarity classification, and top 3 dominant emotions
+
