@@ -1,0 +1,483 @@
+================================================================================
+                        LLM ANNOTATION OUTPUT
+               Emotion Intensity | Empathy Score | Emotional Polarity
+================================================================================
+Model Used     : Claude Sonnet (claude-sonnet-4-20250514)
+Prompting Tech : Chain-of-Thought (CoT) — Zero-Shot
+Task           : Utterance-level annotation of emotional dimensions
+Dataset        : TRAC2 Conversation Development Set (trac2_CONVT_dev.csv)
+Conversations  : 68, 72, 74, 80, 85  |  First 5 turns (10 utterances each)
+Date Generated : 2026-03-15
+--------------------------------------------------------------------------------
+
+SCALE DEFINITIONS
+  Emotion Intensity  : 1=Neutral  2=Mild  3=Moderate  4=Strong/Intense
+  Empathy Score      : 1=No empathy  2=Mild acknowledgment
+                       3=Moderate validation/perspective-taking
+                       4=High/deep emotional resonance
+  Emotional Polarity : 0=Negative  1=Neutral  2=Positive
+
+================================================================================
+SYSTEM PROMPT (Chain-of-Thought Instruction)
+================================================================================
+"You are an expert annotator in affective computing and conversational AI.
+Your task is to analyze dialogue conversations and produce three types of
+annotation for each utterance:
+
+1. Emotion Intensity (scale 1–4)
+2. Empathy Score (scale 1–4)
+3. Emotional Polarity (0=Negative, 1=Neutral, 2=Positive)
+
+Use chain-of-thought reasoning: for each utterance, briefly explain your
+reasoning before giving the final scores."
+
+================================================================================
+CONVERSATION ID: 68
+TOPIC: Refugee crisis and personal safety
+SPEAKERS: 38, 75
+================================================================================
+
+Turn  1 | Speaker 38
+Text    : "Hello how are you?"
+CoT     : Simple greeting with no emotional content. Neutral tone, no empathy
+          expressed yet — just an opener.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  2 | Speaker 75
+Text    : "Hello! Fine. How are you?"
+CoT     : Reciprocal greeting. Slightly warmer due to reciprocal question, but
+          still neutral in emotional depth.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  3 | Speaker 38
+Text    : "I'm good thanks for asking!"
+CoT     : Positive, polite response. Mild positive emotion from the gratitude.
+          No real empathy expressed toward any topic.
+Scores  : Emotion Intensity=2 | Empathy Score=1 | Polarity=2 (Positive)
+--------------------------------------------------------------------------------
+Turn  4 | Speaker 75
+Text    : "That's good, so I guess we are supposed to discuss the article. I
+          wonder, if my family or I were in a place where my very life was at
+          risk, what would I do?"
+CoT     : Speaker shifts to a heavy existential question — imagining
+          life-or-death scenarios involving family. This signals moderate
+          emotional engagement and self-reflection. Mild empathy through
+          personal vulnerability shared.
+Scores  : Emotion Intensity=2 | Empathy Score=2 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  5 | Speaker 38
+Text    : "That's a very scary thought to have honestly"
+CoT     : Speaker validates the emotional weight of the previous statement —
+          acknowledging fear. This is moderate empathy (validating the other's
+          feeling). The word 'scary' indicates moderate emotional intensity.
+Scores  : Emotion Intensity=3 | Empathy Score=3 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  6 | Speaker 75
+Text    : "Yes, I think it is something most people rather not imagine. But it
+          is a reality."
+CoT     : Acknowledges the avoidance of the painful topic while grounding it in
+          reality. Moderate tone — thoughtful and reflective, with mild empathy
+          for those facing this reality.
+Scores  : Emotion Intensity=2 | Empathy Score=2 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  7 | Speaker 38
+Text    : "becoming more and more of a reality everyday"
+CoT     : Short but emotionally laden — conveys a sense of dread and urgency
+          about worsening global conditions. Mild empathy implied through shared
+          concern.
+Scores  : Emotion Intensity=2 | Empathy Score=2 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  8 | Speaker 75
+Text    : "Yes, it is sad for those who have to make hard decisions. Sad also
+          to hear people be so unsympathetic."
+CoT     : Strong empathy expressed for refugees ('sad for those who have to
+          make hard decisions'). Negative polarity due to sadness and criticism
+          of unsympathetic attitudes. Moderately intense emotion.
+Scores  : Emotion Intensity=3 | Empathy Score=4 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  9 | Speaker 38
+Text    : "Yes and why is America taking so few refugees?"
+CoT     : Expresses frustration/concern about policy. The rhetorical question
+          signals mild-moderate emotional intensity. Moderate empathy for
+          refugees is implicit.
+Scores  : Emotion Intensity=3 | Empathy Score=3 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn 10 | Speaker 75
+Text    : "Not sure, I guess refugees are not top priority for anyone."
+CoT     : A somewhat resigned, pessimistic statement. Low-moderate emotion —
+          a sense of helplessness and disappointment. Mild empathy implied
+          toward refugees.
+Scores  : Emotion Intensity=2 | Empathy Score=2 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+CONVERSATION SUMMARY:
+The conversation begins as a neutral greeting and gradually deepens into an
+emotionally heavy discussion about the refugee crisis. Both speakers demonstrate
+growing empathy and sadness, with polarity shifting from neutral to predominantly
+negative as they grapple with global suffering and political inaction.
+
+AVG SCORES (Conv 68): Emotion Intensity=2.1 | Empathy=2.1 | Polarity=0.7
+
+================================================================================
+CONVERSATION ID: 72
+TOPIC: Fuel tanker explosion in Africa — 73 deaths
+SPEAKERS: 65, 79
+================================================================================
+
+Turn  1 | Speaker 65
+Text    : "hello anyone there?"
+CoT     : Simple check-in greeting. Neutral, no emotional content.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  2 | Speaker 79
+Text    : "hi"
+CoT     : Minimal one-word greeting. Completely neutral.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  3 | Speaker 65
+Text    : "did we read the same article?"
+CoT     : Simple factual inquiry. Neutral tone with no emotional cues.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  4 | Speaker 79
+Text    : "Was yours about an explosion?"
+CoT     : Clarifying question about article content. Still neutral, though the
+          topic (explosion) is inherently heavy.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  5 | Speaker 65
+Text    : "yeah, some guy stopped to sell fuel then boom!"
+CoT     : The informal 'boom!' trivializes the tragedy slightly, suggesting
+          emotional detachment rather than distress. Mild emotion expressed
+          through informal register. Low empathy.
+Scores  : Emotion Intensity=2 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  6 | Speaker 79
+Text    : "yeah 73 people died"
+CoT     : Factual statement about deaths with no emotional language. Delivers
+          grave news very flatly — signals emotional distance. Negative topic
+          but delivered neutrally.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  7 | Speaker 65
+Text    : "what was your first reaction?"
+CoT     : Invites emotional reflection from the partner. Shows mild curiosity
+          and engagement. Neutral-positive in tone.
+Scores  : Emotion Intensity=1 | Empathy Score=2 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  8 | Speaker 79
+Text    : "I was not very surprised"
+CoT     : Expression of desensitization to tragedies in the developing world.
+          Low empathy — the speaker normalizes mass death. Emotionally flat
+          but carries an implicit negative undertone (desensitization).
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  9 | Speaker 65
+Text    : "really? why were you not surprised?"
+CoT     : Shows curiosity/mild surprise at the other's lack of reaction.
+          Slightly probing for more reflection. Mild emotional engagement.
+Scores  : Emotion Intensity=2 | Empathy Score=2 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn 10 | Speaker 79
+Text    : "It seems to happen often in africa and the third world"
+CoT     : A stereotyping/generalizing statement about Africa. Displays very low
+          empathy — the mass death is treated as expected/routine. Mildly
+          negative in implication due to indifference.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+CONVERSATION SUMMARY:
+Conversation 72 is notable for its emotional flatness and low empathy. Both
+speakers discuss a tragedy involving 73 deaths in a detached, matter-of-fact
+tone. The most concerning emotional signal is Speaker 79's normalization of mass
+casualties in Africa, indicating desensitization. Polarity is mostly
+neutral-to-negative.
+
+AVG SCORES (Conv 72): Emotion Intensity=1.2 | Empathy=1.2 | Polarity=0.8
+
+================================================================================
+CONVERSATION ID: 74
+TOPIC: Fuel tanker explosion — 73 deaths, cause investigation
+SPEAKERS: 61, 81
+================================================================================
+
+Turn  1 | Speaker 61
+Text    : "hello. Did you read the article?"
+CoT     : Basic greeting and article check-in. Neutral.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  2 | Speaker 81
+Text    : "hello, yes I did read the article"
+CoT     : Simple confirmation. Neutral, no emotional content.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  3 | Speaker 61
+Text    : "Such a tragedy. My first reaction was sadness. I felt so bad for
+          them and their families."
+CoT     : Speaker immediately expresses strong empathy ('felt so bad for them
+          and their families') and labels the event a 'tragedy.' High empathy,
+          moderate emotional intensity, clear negative polarity.
+Scores  : Emotion Intensity=3 | Empathy Score=4 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  4 | Speaker 81
+Text    : "It is indeed a tragedy. My first reaction was surprise, given the
+          number of people that perished. I also feel for their families."
+CoT     : Validates and mirrors Speaker 61's empathy. Adds personal emotional
+          reaction (surprise). High empathy with emphasis on family impact.
+          Moderate emotional intensity.
+Scores  : Emotion Intensity=3 | Empathy Score=4 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  5 | Speaker 61
+Text    : "Yes, surprise I felt that way too. I wonder what type of fire...
+          What do you think?"
+CoT     : Moves toward analytical discussion of cause while maintaining
+          engagement. Emotionally engaged but now more intellectual. Moderate
+          empathy through shared emotional reaction.
+Scores  : Emotion Intensity=2 | Empathy Score=3 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  6 | Speaker 81
+Text    : "Lightning strike would be incredibly unlucky and uncommon. The
+          article didn't seem to lean towards either theory. What do you think
+          might have been the cause?"
+CoT     : Analytical response. Empathy maintained through mutual engagement.
+          Neutral in polarity — factual discussion mode.
+Scores  : Emotion Intensity=2 | Empathy Score=2 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  7 | Speaker 61
+Text    : "Yeah, I see a lightning strike unlikely... They didn't really give
+          too many details."
+CoT     : Continued analytical engagement. Mild frustration at lack of
+          information. Neutral-to-mild emotion.
+Scores  : Emotion Intensity=2 | Empathy Score=2 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  8 | Speaker 81
+Text    : "Yes, either way incredibly unfortunate... I'm sure the truth will
+          come out with that many witnesses."
+CoT     : Reconnects to the tragedy with 'incredibly unfortunate.' Empathic
+          reaffirmation of sadness. Mild optimism at end ('truth will come
+          out'). Moderate empathy.
+Scores  : Emotion Intensity=3 | Empathy Score=3 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  9 | Speaker 61
+Text    : "yes whenever I read that part man, I cannot even imagine, trying to
+          get into a river on fire that would just be god-awful"
+CoT     : 'I cannot even imagine' and 'god-awful' signal strong emotional
+          reaction — horror and visceral empathy. High intensity, high empathy.
+          Strongly negative polarity.
+Scores  : Emotion Intensity=4 | Empathy Score=4 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn 10 | Speaker 81
+Text    : "Yes, it made me think of some war photos... I wonder who will be
+          held responsible."
+CoT     : Vivid personal imagery (war photos) shows deep emotional processing.
+          Ends with a question about accountability — concern for justice.
+          Moderate-high empathy, negative polarity.
+Scores  : Emotion Intensity=3 | Empathy Score=3 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+CONVERSATION SUMMARY:
+Conversation 74 begins with strong empathetic responses to a tragedy, both
+speakers immediately expressing sadness and concern for victims' families. The
+discussion shifts between analytical (cause of explosion) and deeply empathetic
+registers. The peak emotional moment is Turn 9 where Speaker 61 expresses
+visceral horror. Polarity is predominantly negative.
+
+AVG SCORES (Conv 74): Emotion Intensity=2.4 | Empathy=2.7 | Polarity=0.6
+
+================================================================================
+CONVERSATION ID: 80
+TOPIC: Orangutan habitat destruction / poorly written article
+SPEAKERS: 33, 89
+================================================================================
+
+Turn  1 | Speaker 33
+Text    : "Hello?"
+CoT     : Single-word greeting. Completely neutral.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  2 | Speaker 89
+Text    : "Hi. what did you think of the article?"
+CoT     : Prompt to begin discussion. Neutral opener.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  3 | Speaker 33
+Text    : "I am shocked that this would happen. I hate to wipe out the apes!"
+CoT     : 'Shocked' and 'hate' indicate strong emotional reaction — surprise
+          and moral indignation at habitat destruction. Moderate-high intensity.
+          Empathy for orangutans expressed. Negative polarity.
+Scores  : Emotion Intensity=3 | Empathy Score=3 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  4 | Speaker 89
+Text    : "yeah, but everywhere you go you will probably effect some kind of
+          animal. What if they just replanted afterwards too?"
+CoT     : Somewhat deflecting/rationalizing the impact. Less emotionally
+          invested — more pragmatic. Low empathy toward the orangutans.
+          Neutral-mildly positive (suggests a solution).
+Scores  : Emotion Intensity=2 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  5 | Speaker 33
+Text    : "Yup. I dig. I thought that the article was oddly written, but I
+          caught the main idea of it."
+CoT     : Mildly frustrated but accepting. Shifts focus to article quality —
+          emotionally disengaging from the topic. Low-mild intensity, low
+          empathy in this utterance.
+Scores  : Emotion Intensity=2 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  6 | Speaker 89
+Text    : "I am glad I am not the only one who had a hard time understanding
+          it... I think individuals and not governments need to do it themselves"
+CoT     : Relief at shared confusion (mild positive). Philosophical stance on
+          human-animal compromise. Mild empathy through shared experience.
+          Neutral polarity.
+Scores  : Emotion Intensity=2 | Empathy Score=2 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  7 | Speaker 33
+Text    : "Sure, It was written and then translated badly, I think."
+CoT     : Mild frustration about article quality. Low emotional intensity, low
+          empathy. Neutral.
+Scores  : Emotion Intensity=2 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  8 | Speaker 89
+Text    : "yes, definitely not written by a native English speaker... Maybe
+          they could evolve into something better adapted"
+CoT     : Mildly dismissive comment about article quality. The evolution comment
+          is intellectually provocative but emotionally detached. Low empathy,
+          neutral polarity.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn  9 | Speaker 33
+Text    : "What I get is that the apes (orangutans) are already at a 1700
+          population... My feelings are mostly subsumed by a cloud of mystery."
+CoT     : 'Cloud of mystery' expresses confusion and emotional ambiguity rather
+          than clear feeling. Mild emotion, mild empathy implied by concern for
+          orangutan numbers.
+Scores  : Emotion Intensity=2 | Empathy Score=2 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn 10 | Speaker 89
+Text    : "I'm gonna run out of time. What was even meant by the depth?"
+CoT     : Time pressure expressed, further confusion about the article.
+          Emotionally disengaged — urgency and confusion dominate. Low empathy,
+          neutral.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+CONVERSATION SUMMARY:
+Conversation 80 starts with genuine concern for orangutans but quickly derails
+into frustration with a poorly written/translated article. Emotional engagement
+is low after Turn 3. Both speakers are more confused than emotionally invested.
+Empathy toward the animals is initially present but fades. The conversation ends
+with disengagement and time pressure.
+
+AVG SCORES (Conv 80): Emotion Intensity=1.7 | Empathy=1.3 | Polarity=0.9
+
+================================================================================
+CONVERSATION ID: 85
+TOPIC: Haiti hurricane disaster and structural poverty
+SPEAKERS: 75, 74
+================================================================================
+
+Turn  1 | Speaker 75
+Text    : "Hello, good morning! How are you?"
+CoT     : Warm, friendly greeting. Mild positive emotion. No empathy toward any
+          topic yet.
+Scores  : Emotion Intensity=2 | Empathy Score=1 | Polarity=2 (Positive)
+--------------------------------------------------------------------------------
+Turn  2 | Speaker 74
+Text    : "i am good. thanks"
+CoT     : Brief, neutral-positive response. Low emotional intensity.
+Scores  : Emotion Intensity=1 | Empathy Score=1 | Polarity=2 (Positive)
+--------------------------------------------------------------------------------
+Turn  3 | Speaker 75
+Text    : "I guess we can discuss the article now. First reaction is of
+          sadness."
+CoT     : Immediate emotional disclosure — sadness as first reaction to the
+          article. Mild-moderate intensity. Low-mild empathy (expressing own
+          feeling rather than other-directed).
+Scores  : Emotion Intensity=2 | Empathy Score=2 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  4 | Speaker 74
+Text    : "yes, exactly that. I was thinking that magnitudes of these calamities
+          is the same everywhere but poorer countries are just not equipped to
+          handle them"
+CoT     : Validates speaker 75's sadness ('yes, exactly that') — strong
+          empathic alignment. Adds analytical insight about structural
+          inequality. Moderate empathy and emotion.
+Scores  : Emotion Intensity=2 | Empathy Score=3 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  5 | Speaker 75
+Text    : "It seems that Haiti is a truly devastated country. Earthquakes,
+          hurricanes. Worse off is the economic collapse they live through."
+CoT     : 'Truly devastated' signals strong empathy for the Haitian people.
+          Lists cumulative hardships — emotional engagement is growing.
+          Moderate-high intensity, high empathy.
+Scores  : Emotion Intensity=3 | Empathy Score=4 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  6 | Speaker 74
+Text    : "Some people really get the worst birth lottery"
+CoT     : A poignant, empathic observation about inequality of circumstance.
+          'Birth lottery' is a compassionate framing. Moderate intensity,
+          moderate-high empathy. Negative polarity.
+Scores  : Emotion Intensity=3 | Empathy Score=3 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  7 | Speaker 75
+Text    : "Also they never really recovered from their 2010 earthquake, it
+          seems the destruction from then lingers on."
+CoT     : Empathic historical perspective — connecting past trauma to present
+          suffering. Moderate-high empathy for Haiti. Negative polarity.
+Scores  : Emotion Intensity=3 | Empathy Score=4 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  8 | Speaker 74
+Text    : "It is just so much harder when you are already poor and then you
+          have to fight these natural disasters too. They really do need help"
+CoT     : 'They really do need help' is a direct, empathic call for action.
+          Strong other-oriented empathy. Moderate-high intensity. Negative
+          polarity due to suffering described.
+Scores  : Emotion Intensity=3 | Empathy Score=4 | Polarity=0 (Negative)
+--------------------------------------------------------------------------------
+Turn  9 | Speaker 75
+Text    : "Do you think Americans in general would support any help to Haiti?"
+CoT     : Pivots to a political-social question about aid. Empathy remains
+          implicit. Moderate engagement. Neutral-to-slightly-negative polarity
+          (questioning rather than assuming).
+Scores  : Emotion Intensity=2 | Empathy Score=3 | Polarity=1 (Neutral)
+--------------------------------------------------------------------------------
+Turn 10 | Speaker 74
+Text    : "I hope so. I know that people do care about those devastated by such
+          disasters"
+CoT     : 'I hope so' expresses optimism tempered by uncertainty. Empathic
+          affirmation of human compassion. Mild-positive polarity overall —
+          ends on a note of hope.
+Scores  : Emotion Intensity=2 | Empathy Score=3 | Polarity=2 (Positive)
+--------------------------------------------------------------------------------
+CONVERSATION SUMMARY:
+Conversation 85 is one of the most empathetically rich in the set. Both speakers
+engage deeply with Haiti's compounding disasters — natural, economic, and
+historical. Empathy scores are high throughout, with both speakers demonstrating
+perspective-taking and other-oriented concern. The emotional arc moves from
+sadness to a tentative note of hope at the close.
+
+AVG SCORES (Conv 85): Emotion Intensity=2.3 | Empathy=2.8 | Polarity=0.5
+
+================================================================================
+                         CROSS-CONVERSATION COMPARISON
+================================================================================
+Conv ID | Topic                      | Avg Emotion | Avg Empathy | Avg Polarity
+--------|----------------------------|-------------|-------------|-------------
+   68   | Refugee crisis             |     2.1     |     2.1     |     0.7
+   72   | Explosion in Africa        |     1.2     |     1.2     |     0.8
+   74   | Fuel tanker explosion      |     2.4     |     2.7     |     0.6
+   80   | Orangutan habitat          |     1.7     |     1.3     |     0.9
+   85   | Haiti hurricane/poverty    |     2.3     |     2.8     |     0.5
+================================================================================
+
+KEY FINDINGS FOR HUMAN ANNOTATORS:
+  1. Conv 74 & 85 show the highest empathy — both involve human suffering with
+     explicit perspective-taking language.
+  2. Conv 72 is the least empathetic — speakers remain emotionally detached even
+     when discussing mass casualties.
+  3. Conv 80 is unique: initial concern for animals quickly replaced by
+     meta-frustration about the article's quality.
+  4. Polarity is predominantly negative across all five conversations, reflecting
+     the heavy news topics discussed.
+  5. Chain-of-thought reasoning was especially useful for disambiguating
+     utterances that are factually neutral but emotionally weighted in context.
+
+================================================================================
+END OF LLM OUTPUT
+================================================================================
