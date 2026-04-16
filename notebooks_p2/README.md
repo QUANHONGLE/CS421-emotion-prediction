@@ -43,7 +43,7 @@ Four weight configurations were tested on a subset of 20 dev conversations:
 | 0.70 | 0.10 | 0.10 | 0.10 | 0.1364 | 0.8592 |
 | 0.40 | 0.20 | 0.20 | 0.20 | 0.1364 | 0.8592 |
 
-All weight configurations produced identical scores, indicating that SBERT text similarity dominates the retrieval process regardless of the emotional component weights. The final weights chosen were w1=0.6, w2=0.15, w3=0.15, w4=0.1 as they give the most weight to text similarity which is clearly the most impactful component.
+There were no differences in output scores of all the weights tested, so it is concluded that SBERT text similarity will dominate the retrieval regardless of what weights are given to each of the emotional components, as every combination produced the same outcome. The final weights decided upon were 0.6 for w1, 0.15 for w2, 0.15 for w3 and 0.1 for w4 because they gave the highest weighting to the text similarity which is clearly the most significant element.
 
 ### Generation
 - For each conversation, the first 5 turns are used as history
@@ -63,7 +63,7 @@ All weight configurations produced identical scores, indicating that SBERT text 
 | BertScore Recall | 0.8548 |
 | BertScore F1 | 0.8582 |
 
-The low ROUGE and BLEU scores are expected for a retrieval-based approach since these metrics measure exact word overlap. BertScore (0.8582) better reflects generation quality by measuring semantic similarity.
+The low ROUGE and BLEU scores are expected for a retrieval approach since these metrics measure exact word overlap. BertScore (0.8582) better reflects generation quality by measuring semantic similarity.
 
 ## Output
 - `generations_corpus.csv` — test set generations with columns: `conversation_id, turn_number, generated_response`
