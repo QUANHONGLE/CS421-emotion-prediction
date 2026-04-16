@@ -13,14 +13,14 @@
 ## Implementation Details
 
 ### Embeddings
-- Used `all-MiniLM-L6-v2` from Sentence Transformers to encode all training utterances into 384-dimensional vectors
+- We used `all-MiniLM-L6-v2` from Sentence Transformers to encode all training utterances into 384 dimensional vectors
 - The query is formed by concatenating all conversation history utterances up to turn 5
 
 ### Preprocessing
-- Data loaded from CSV files (train, dev, test)
-- Emotion and Empathy scores normalized to [0, 1] using min-max normalization
-- EmotionalPolarity one-hot encoded into 4 classes (0, 1, 2, 3)
-- Malformed rows skipped using `on_bad_lines='skip'`
+- Data loaded from CSV files train, dev, and test
+- Emotion and Empathy scores normalized to [0, 1] using min max normalization
+- EmotionalPolarity one hot encoded into 4 classes (0, 1, 2, 3)
+- Malformed rows are skipped
 
 ### Similarity Score
 The total similarity between a query and each training utterance is calculated as:
@@ -34,7 +34,7 @@ Where:
 - spolarity = 1 if polarities match, 0 otherwise
 
 ### Weight Selection
-Four weight configurations were tested on a subset of 20 dev conversations:
+Four weight configurations were tested on a subset of 20 dev conversations: 
 
 | w1 (text) | w2 (emotion) | w3 (empathy) | w4 (polarity) | ROUGE-1 | BertScore F1 |
 |-----------|-------------|-------------|--------------|---------|-------------|
@@ -51,7 +51,7 @@ There were no differences in output scores of all the weights tested, so it is c
 - Already used sentences are masked to avoid repetition
 - 5 turns (turns 6-10) are generated per conversation
 
-## Dev Set Results
+## Dev Set Results (picture named `Q1_corpus_dev_metrics.PNG`)
 
 | Metric | Score |
 |--------|-------|
