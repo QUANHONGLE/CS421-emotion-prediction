@@ -68,3 +68,51 @@ The low ROUGE and BLEU scores are expected for a retrieval approach since these 
 ## Output
 - `generations_corpus.csv` — test set generations with columns: `conversation_id, turn_number, generated_response`
 - `generations_corpus_10turns.csv` — 5 dev conversations with 10 generated turns each for Q3 analysis
+
+# Q2: In-Context learning with Large Language Models 
+
+## Code File
+`Q2_InContext_Learning_LLM.ipynb`
+
+## How to Run
+1. Open `Q2_InContext_Learning_LLM.ipynb` in Google Colab
+2. Run all cells in order from top to bottom (Runtime → Run all)
+3. The test generations will be saved as `q2_test_predictions.csv` automatically
+
+## Implementation Details
+
+### Model 
+- Originally attempted to used Phi-3-Mini model, but resorted to 'microsoft/phi-2' from HuggingFace Transformers
+- Loaded the mdoel with AutoModelForCausalLM and AutTokenizer
+- Set the tokenizer padding token to the EOS token
+
+### Prompt Construction 
+- Each input conversation uses the frist 5 turns as context
+- Few-shot examples are sampled from training set
+- Each example contains:
+    - Conversation History (turns 1-5)
+    - Gold Conitnuation (turns 6-15)
+ - Tested both 3-shot prompting and 5-shot prompting
+   
+### Generation
+- The model was promoting to generate the next 10 turns for each conversation, starting at turn 6
+- Generated outputs were parsed to extract turns 6-15
+- If less than 10 turns were generated, missing turns were left as blank in CSV
+- 
+## Dev Set Results (picture named `q2_dev_metrics.png`)
+
+| Metric | 3-Shot Score | 5-Shot Score
+|--------|-------|-------|
+| ROUGE-1 | 0.2713 |0.2495
+| ROUGE-2 | 0.0472 | 0.0469
+| ROUGE-L | 0.1439 | 0.1478
+| BLEU | 0.0165 | 0.0088
+| BertScore Precision | 0.8417 | 0.8405
+| BertScore Recall | 0.812 | 0.808
+| BertScore F1 | 0.8265 | 0.8238
+
+3-Shot metrics performed better, with higher Rouge-1, Rouge-2, Bleu, and BertScore F1. Due to this, 3-shot was selected for the final test predictions.
+
+## Output
+- `q2_test_predictions.csv` — test set generations with columns: `id, turn_number, generated_response`
+
