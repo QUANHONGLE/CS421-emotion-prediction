@@ -103,13 +103,13 @@ The low ROUGE and BLEU scores are expected for a retrieval approach since these 
 
 | Metric | 3-Shot Score | 5-Shot Score
 |--------|-------|-------|
-| ROUGE-1 | 0.2713 |0.2495
-| ROUGE-2 | 0.0472 | 0.0469
-| ROUGE-L | 0.1439 | 0.1478
-| BLEU | 0.0165 | 0.0088
-| BertScore Precision | 0.8417 | 0.8405
-| BertScore Recall | 0.812 | 0.808
-| BertScore F1 | 0.8265 | 0.8238
+| ROUGE-1 | 0.2913 |0.2719
+| ROUGE-2 | 0.0447 | 0.0456
+| ROUGE-L | 0.1515 | 0.1442
+| BLEU | 0.08 | 0.0091
+| BertScore Precision | 0.8387 | 0.8329
+| BertScore Recall | 0.8183 | 0.8118
+| BertScore F1 | 0.8284 | 0.8222
 
 3-Shot metrics performed better, with higher Rouge-1, Rouge-2, Bleu, and BertScore F1. Due to this, 3-shot was selected for the final test predictions.
 
