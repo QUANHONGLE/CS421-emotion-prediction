@@ -1,0 +1,3 @@
+Setting,Rouge 1,Rouge 2,Rouge L,Bleu,BERT Precision,BERT Recall,BERT F1
+3-Shot,0.2913,0.0447,0.1515,0.018,0.8387,0.8183,0.8284
+5-Shot,0.2719,0.0456,0.1442,0.0091,0.8329,0.8118,0.8222
